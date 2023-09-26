@@ -11,7 +11,8 @@
 7. [Análisis de mercado](#análisis-de-mercado)
 8. [Estrategia de marketing](#estrategia-de-marketing)
 9. [Metas y objetivos](#metas-y-objetivos)
-10. [Responsabilidad social corporativa](#responsabilidad-social-corporativa)
+
+# 10. [Responsabilidad social corporativa](#responsabilidad-social-corporativa)
 
 |-------------------------------------|
 |         **CLASIFICACIÓN**           |
@@ -22,6 +23,7 @@
 |        Tamaño      | (alrededor de  |
 |                    |  50 empleados) |
 |-------------------------------------|
+
 
 # 7.- Análisis de mercado
 
@@ -86,3 +88,4 @@ En la siguiente tabla se describen los puntos clave del mercado de ropa infantil
 |     y alianzas     | colaboración con escuelas locales, guarderías |
 |                    | y otros negocios relacionados con niños.      |
 |--------------------------------------------------------------------|
+
