@@ -1,5 +1,6 @@
 # M10_GRUPC
 
+
 ## Índice:
 
 1. [Motivación](#motivación)
@@ -12,3 +13,14 @@
 8. [Estrategia de marketing](#estrategia-de-marketing)
 9. [Metas y objetivos](#metas-y-objetivos)
 10. [Responsabilidad social corporativa](#responsabilidad-social-corporativa)
+
+
+|-------------------------------------|
+|             CLASIFICACIÓN           |
+|-------------------------------------|
+|Sector de actividad |  terciario     |
+|-------------------------------------|
+|                    |Pequeña/mediana |
+|        Tamaño      | (alrededor de  |
+|                    |  50 empleados) |
+|-------------------------------------|
