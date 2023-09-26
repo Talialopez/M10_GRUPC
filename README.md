@@ -1,4 +1,5 @@
 # M10_GRUPC
+
 ## índice:
 
 1.[Motivación](#motivación)
