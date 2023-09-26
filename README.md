@@ -1,7 +1,9 @@
 # M10_GRUPC
-
-|          clasificacion      |
-------------------------------
-|Sector de actividad|terciario|
-|
-|
+|----------------------------------|
+|             CLASIFICACIÓN        |
+|----------------------------------|
+|Sector de actividad |  terciario   |
+|----------------------------------|
+|                    |Pequeña/mediana |
+|       Tamaño       | (alrededor de |
+|--------------------|  50 empleados) |
