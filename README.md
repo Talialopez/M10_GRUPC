@@ -37,10 +37,10 @@ Niños de 0 a 14 años y sus padres son el público objetivo principal de XXXX. 
 
 En la siguiente tabla se describen los puntos clave del mercado de ropa infantil:
 
-|--------------------------------------------------------------------|
-|     **Aspecto**    |                 **Descripción**               |
-|--------------------------------------------------------------------|
-|                    | El mercado de ropa infantil en Gràcia es      |
+|--------------------------------------------------------------------|  
+|     **Aspecto**    |                 **Descripción**               |  
+|--------------------------------------------------------------------|  
+|                    | El mercado de ropa infantil en Gràcia es      |  
 |       Tamaño       | considerable debido a la densidad de población|
 |                    | de población en este barrio de                |
 |                    | Barcelona.                                    |
