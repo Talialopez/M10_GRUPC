@@ -24,6 +24,7 @@
 |        Tamaño      | (alrededor de  |
 |                    |  50 empleados) |
 
+
 # 7.- Análisis de mercado
 
 <p style="text-align: justify;">Niños de 0 a 14 años y sus padres son el público objetivo principal de XXXX. Este grupo demográfico se divide en varias categorías según la edad:<p>
@@ -35,10 +36,10 @@
 
 <p style="text-align: justify;">En la siguiente tabla se describen los puntos clave del mercado de ropa infantil:<p>
 
-|--------------------------------------------------------------------|
-|     **Aspecto**    |                 **Descripción**               |
-|--------------------------------------------------------------------|
-|                    | El mercado de ropa infantil en Gràcia es      |
+|--------------------------------------------------------------------|  
+|     **Aspecto**    |                 **Descripción**               |  
+|--------------------------------------------------------------------|  
+|                    | El mercado de ropa infantil en Gràcia es      |  
 |       Tamaño       | considerable debido a la densidad de población|
 |                    | de población en este barrio de                |
 |                    | Barcelona.                                    |
@@ -89,6 +90,7 @@
 |--------------------------------------------------------------------|
 
 
+<<<<<<< HEAD
 # 8.- Estratégia de marketing
 
 <p style="text-align: justify;">
@@ -145,3 +147,5 @@ Desde Kiddi contribuimos a la mejora de la sociedad y del medio ambiente a trav�
 - Ética publicitaria: Evitamos prácticas publicitarias engañosas y garantizamos un marketing ético acorde a los valores de la empresa.
 
 
+=======
+>>>>>>> 7816f765eec9c15d64f0304b6c2ca7bede7b75d2
