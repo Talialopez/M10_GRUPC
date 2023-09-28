@@ -14,16 +14,14 @@
 10. [Responsabilidad social corporativa](#responsabilidad-social-corporativa)
 
 
-
-|-------------------------------------|
-|         **CLASIFICACIÓN**           |
-|-------------------------------------|
-| Sector de actividad |  terciario    |
-|-------------------------------------|
-|                    |Pequeña/mediana |
-|        Tamaño      | (alrededor de  |
-|                    |  50 empleados) |
-|-------------------------------------|
+|            **CLASIFICACIÓN**         |
+|                     |                |
+| Sector de actividad |  terciario     |
+|--------------------------------------|
+|                     |Pequeña/mediana |
+|        Tamaño       | (alrededor de  |
+|                     |  50 empleados) |
+|--------------------------------------|
 
 
 # 7.- Análisis de mercado
