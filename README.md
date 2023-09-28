@@ -11,7 +11,18 @@
 7. [Análisis de mercado](#análisis-de-mercado)
 8. [Estrategia de marketing](#estrategia-de-marketing)
 9. [Metas y objetivos](#metas-y-objetivos)
-10. [Responsabilidad social corporativa](#responsabilidad-social-corporativa)
+10. [Responsabilidad social corporativa](#responsabilidad-social-corporativa)  
+  
+
+# Motivación  
+  
+Hace algunos años, empezamos a notar en la ciudad de Barcelona grandes desechos de ropa infantil. La ropa que alguna vez fue amada por niños, ahora compartía lugar junto a los residuos diarios. Fue durante esos momentos, en los que nuestro equipo, se dio cuenta de la necesidad de un cambio en la forma en que vestían los pequeños/as y en cómo contribuimos al problema global de desechos.  
+  
+Nos comprometimos a encontrar una solución que permitiera vestir a los niños/as de una manera que reflejase nuestros valores de sostenibilidad y responsabilidad social. Juntos, comenzamos a investigar y buscar opciones en el mercado de la moda infantil, pero nos dimos cuenta de que no había muchas alternativas verdaderamente sostenibles en nuestra área.  
+
+Fue entonces cuando nació la idea de X. Los tres nos propusimos crear una tienda de ropa infantil que no sólo ofreciera prendas de alta calidad y estilo, sino que también promoviera la sostenibilidad y la responsabilidad social en cada aspecto de nuestro negocio. Queríamos proporcionar a los niños la oportunidad de vestirse de manera  consciente y de esta manera colaborar de alguna manera en la protección de la Tierra.  
+
+Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiva en el cuidado del medio ambiente sigue inspirando a las familias y a las futuras generaciones a construir un mundo más verde.  
 
 
 
