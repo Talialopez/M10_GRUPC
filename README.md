@@ -14,25 +14,26 @@
 10. [Responsabilidad social corporativa](#responsabilidad-social-corporativa)
 
 
-|            **CLASIFICACIÓN**         |
-|                     |                |
-| Sector de actividad |  terciario     |
-|--------------------------------------|
-|                     |Pequeña/mediana |
-|        Tamaño       | (alrededor de  |
-|                     |  50 empleados) |
-|--------------------------------------|
+
+
+
+|         **CLASIFICACIÓN**           |
+| Sector de actividad |  terciario    |
+|                                     |
+|                    |Pequeña/mediana |
+|        Tamaño      | (alrededor de  |
+|                    |  50 empleados) |
 
 # 7.- Análisis de mercado
 
-Niños de 0 a 14 años y sus padres son el público objetivo principal de XXXX. Este grupo demográfico se divide en varias categorías según la edad:
+<p style="text-align: justify;">Niños de 0 a 14 años y sus padres son el público objetivo principal de XXXX. Este grupo demográfico se divide en varias categorías según la edad:<p>
 
 - Bebés (0-2 años)
 - Niños pequeños (3-6 años)
 - Niños en edad escolar (7-11 años)
 - Adolescentes (12-14 años)
 
-En la siguiente tabla se describen los puntos clave del mercado de ropa infantil:
+<p style="text-align: justify;">En la siguiente tabla se describen los puntos clave del mercado de ropa infantil:<p>
 
 |--------------------------------------------------------------------|
 |     **Aspecto**    |                 **Descripción**               |
@@ -86,3 +87,61 @@ En la siguiente tabla se describen los puntos clave del mercado de ropa infantil
 |     y alianzas     | colaboración con escuelas locales, guarderías |
 |                    | y otros negocios relacionados con niños.      |
 |--------------------------------------------------------------------|
+
+
+# 8.- Estratégia de marketing
+
+<p style="text-align: justify;">
+Si bien nuestra ropa está diseñada para niños de 0 a 14 años, reconocemos que los padres son quienes toman las decisiones de compra y tienen el poder adquisitivo para realizarlas. Por lo tanto, la estrategia se orienta a atraer padres, educar sobre sostenibilidad, generar confianza en la marca y fomentar la lealtad a largo plazo.
+</p>
+<p style="text-align: justify;">
+Para iniciar nuestra estrategia de marketing aprovecharemos las tendencias demográficas actuales. Según datos proporcionados por el Instituto Nacional de Estadística (INE), la edad promedio de maternidad y paternidad en España se sitúa en 32,6 años. Por lo tanto, nuestra estrategia se orientará hacia las redes sociales, específicamente Instagram y Facebook, que son plataformas muy utilizadas por este grupo demográfico.
+</p>
+
+# 9.- Metas y objetivos
+
+Como empresa nos hemos propuesto los siguientes objetivos:
+
+**A corto plazo (primer año)**:
+
+- Iniciar Operaciones en Línea: Establecer una plataforma de comercio electrónico funcional y atractiva para complementar las tiendas físicas en los primeros seis meses.
+
+- Incremento de Clientes: Aumentar la base de clientes en las tiendas físicas y en línea en un 20% durante el primer año.
+
+- Colaboraciones Locales: Establecer alianzas con al menos dos escuelas locales para promocionar la marca y productos a las familias.
+
+- Programa de Lealtad: Implementar un programa de lealtad que recompense a los clientes frecuentes con descuentos y regalos exclusivos en el segundo trimestre.
+
+- Recuperación de la Inversión: Recuperar la inversión inicial realizada.
+
+
+
+**A largo plazo:**
+
+Liderazgo en el Mercado Local: Convertirnos en la tienda líder de ropa infantil en Gràcia, siendo la primera opción para los padres en el barrio.
+
+- Expansión Regional: Desarrollar una presencia en otras áreas de Barcelona y sus alrededores para ampliar nuestro alcance y atraer a clientes de toda la región.
+
+- Crecimiento en Ventas Anuales: Establecer un crecimiento constante en las ventas anuales, con un objetivo específico de aumento porcentual.
+
+- Desarrollo de Línea Sostenible: Expandir la oferta de ropa infantil sostenible y convertirla en una parte significativa de ventas totales.
+
+- Diversificación de Productos: Ampliar la oferta de productos para incluir artículos relacionados con niños, como juguetes y accesorios.
+
+- Beneficios.
+<br>
+# 10.- Responsabilidad Social Corporativa
+
+Desde Kiddi contribuimos a la mejora de la sociedad y del medio ambiente a través de las siguientes prácticas y acciones:
+
+- Productos Sostenibles: Ofrecemos una línea de ropa infantil fabricada con materiales sostenibles y ecológicos y promocionamos activamente la importancia de la moda sostenible.
+
+- Ética en la Cadena de Suministro: Nos aseguramos que nuestros proveedores sigan prácticas éticas en la producción de la ropa, como el respeto de los derechos laborales y la eliminación de prácticas dañinas para el medio ambiente.
+
+- Reducción de envases y reciclaje: Implementamos prácticas para reducir los residuos, como la utilización de envases eco-amigables y la promoción de la reutilización y el reciclaje entre los clientes.
+
+- Cuidado de Empleados: Promovemos un ambiente laboral seguro y saludable, proporcionando capacitación y oportunidades de desarrollo para los empleados.
+
+- Ética publicitaria: Evitamos prácticas publicitarias engañosas y garantizamos un marketing ético acorde a los valores de la empresa.
+
+
