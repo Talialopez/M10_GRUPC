@@ -1,6 +1,9 @@
-# M10_GRUPC
+# Juno
 
-## Índice:
+#### ***Descubre la Magia de la Moda Infantil***
+<br>
+
+### Índice:
 
 1. [Motivación](#1-motivación)
 2. [Misión](#2-misión)
@@ -15,7 +18,7 @@
   
 <br><br><br>
 
-# 1- Motivación  
+# 1- Motivación
   
 <p style="text-align: justify;">Hace algunos años, empezamos a notar en la ciudad de Barcelona grandes desechos de ropa infantil. La ropa que alguna vez fue amada por niños, ahora compartía lugar junto a los residuos diarios. Fue durante esos momentos, en los que nuestro equipo, se dio cuenta de la necesidad de un cambio en la forma en que vestían los pequeños/as y en cómo contribuimos al problema global de desechos.  
   
@@ -25,23 +28,19 @@
 
 <p style="text-align: justify;">Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiva en el cuidado del medio ambiente sigue inspirando a las familias y a las futuras generaciones a construir un mundo más verde.  
 
-Fue entonces cuando nació la idea de X. Los tres nos propusimos crear una tienda de ropa infantil que no sólo ofreciera prendas de alta calidad y estilo, sino que también promoviera la sostenibilidad y la responsabilidad social en cada aspecto de nuestro negocio. Queríamos proporcionar a los niños la oportunidad de vestirse de manera  consciente y de esta manera colaborar de alguna manera en la protección de la Tierra.  
-
 <br><br><br>
 
 # 4-Valores
 
-<p style="text-align: justify;">Kiddi lucha firmemente por ofrecer ropa fabricada con los mejores materiales, un hecho que caracteriza nuestra calidad en producto. 
-
+<p style="text-align: justify;">Juno lucha firmemente por ofrecer ropa fabricada con los mejores materiales, un hecho que caracteriza nuestra calidad en producto. 
 
 <p style="text-align: justify;">- Nuestros productos son trabajados para ser un diseño único y exclusivo, con materiales de lo más cómodo para los más pequeños de la casa. 
 
-<p style="text-align: justify;">- En Kiddi, también tomamos consciencia de aportar una buena atención al cliente, ya que si nuestros clientes quedan satisfechos con la experiencia en nuestra tienda es una satisfacción como negocio. 
+<p style="text-align: justify;">- En Juno, también tomamos consciencia de aportar una buena atención al cliente, ya que si nuestros clientes quedan satisfechos con la experiencia en nuestra tienda es una satisfacción como negocio. 
 
 <p style="text-align: justify;">- La dedicación que hay en cada prenda hecha y la responsabilidad en vestir a un niño/a hace a nuestros proveedores destacar entre los demás.
 
 <p style="text-align: justify;">- Vestir a un pequeño/a no va a ser un problema, pues en nuestras sucursales hay pasillos y pasillos de todo lo que pueda necesitar. 
-
 
 <p style="text-align: justify;">- Contamos con bolsas en las que envolver su compra, que tienen en cuenta el medioambiente, pues la ecología nos importa tanto como vestir a tu pequeño/a.
 
@@ -49,7 +48,7 @@ Fue entonces cuando nació la idea de X. Los tres nos propusimos crear una tiend
 
 # 5-Líneas de negocio
 
-<p style="text-align: justify;">Kiddi principalmente está enfocada a la venta de ropa infantil. Con tallas que corresponden a niños desde los 0 años hasta los 14. Para el público más pequeño, venimos equipados también con accesorios como biberones, chupetes y cunas, estas son hechas con la mejor madera de la región.
+<p style="text-align: justify;">Juno principalmente está enfocada a la venta de ropa infantil. Con tallas que corresponden a niños desde los 0 años hasta los 14. Para el público más pequeño, venimos equipados también con accesorios como biberones, chupetes y cunas, estas son hechas con la mejor madera de la región.
 
 <p style="text-align: justify;">Los pasillos cuentan con un espacio pensado para el transporte de carritos para que el cliente pueda comprar con comodidad.
 
@@ -85,32 +84,23 @@ Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 
 # 6-Clasificación
 
+Juno se clasifica en diversos aspectos que definen su naturaleza y estructura. Esta clasificación proporciona una visión general de la empresa y su contexto empresarial.
 
-|---------------------------------------------------------------------------|
-| **CLASIFICACIÓN**                                                         |
-|----------------------------|----------------------------------------------|
-| Sector de actividad        |  terciario                                   |
-|---------------------------------------------------------------------------|
-|                            | Pequeña/mediana                              |
-| Tamaño                     | (alrededor de                                |
-|                            |  50 empleados)                               |
-|---------------------------------------------------------------------------|
-| Propiedad del capital      | Privada                                      |
-|---------------------------------------------------------------------------|
-| Ámbito de actividad        | Local/Regional                               |
-|---------------------------------------------------------------------------| 
-| Destino de los beneficios  | Ánimo de lucro                               |
-|---------------------------------------------------------------------------|
-| Forma jurídica             | Sociedad limitada                            |
-|                            | (la responsabilidad de los propietarios      |
-|                            | está limitada a sus aportaciones de capital) |
-|----------------------------|----------------------------------------------|
-            
+|||                    
+|---|-
+| Sector de actividad | Terciario     
+| Tamaño | Pequeña/mediana (alrededor de 50 empleados)  
+| Propiedad del capital | Privada   
+| Ámbito de actividad | Local/Regional   
+| Destino de los beneficios | Ánimo de lucro 
+| Forma jurídica | Sociedad limitada (la responsabilidad de los propietarios está limitada a sus aportaciones de capital) 
+
+
 <br><br><br>
 
 # 7-Análisis de mercado
 
-<p style="text-align: justify;">Niños de 0 a 14 años y sus padres son el público objetivo principal de Kiddi. Este grupo demográfico se divide en varias categorías según la edad:
+<p style="text-align: justify;">Niños de 0 a 14 años y sus padres son el público objetivo principal de Juno. Este grupo demográfico se divide en varias categorías según la edad:
 
 - Bebés (0-2 años)
 - Niños pequeños (3-6 años)
@@ -139,8 +129,7 @@ Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 <p style="text-align: justify;">
 Si bien nuestra ropa está diseñada para niños de 0 a 14 años, reconocemos que los padres son quienes toman las decisiones de compra y tienen el poder adquisitivo para realizarlas. Por lo tanto, la estrategia se orienta a atraer padres, educar sobre sostenibilidad, generar confianza en la marca y fomentar la lealtad a largo plazo.
 
-<p style="text-align: justify;">
-Para iniciar nuestra estrategia de marketing aprovecharemos las tendencias demográficas actuales. Según datos proporcionados por el Instituto Nacional de Estadística (INE), la edad promedio de maternidad y paternidad en España se sitúa en 32,6 años. Por lo tanto, nuestra estrategia se orientará hacia las redes sociales, específicamente Instagram y Facebook, que son plataformas muy utilizadas por este grupo demográfico.
+<p style="text-align: justify;">Para iniciar nuestra estrategia de marketing aprovecharemos las tendencias demográficas actuales. Según datos proporcionados por el Instituto Nacional de Estadística (INE), la edad promedio de maternidad y paternidad en España se sitúa en 32,6 años. Por lo tanto, nuestra estrategia se orientará hacia las redes sociales, específicamente Instagram y Facebook, que son plataformas muy utilizadas por este grupo demográfico.
 
 <br><br><br>
 
@@ -177,16 +166,22 @@ Como empresa nos hemos propuesto los siguientes objetivos:
 - Beneficios.
 
 
+<br><br><br>
+
 # 10-Responsabilidad Social Corporativa
 
 
-Desde Kiddi contribuimos a la mejora de la sociedad y del medio ambiente a través de las siguientes prácticas y acciones:
+Desde Juno contribuimos a la mejora de la sociedad y del medio ambiente a través de las siguientes prácticas y acciones:
 
 - **Productos Sostenibles**: <p style="text-align: justify;">Ofrecemos una línea de ropa infantil fabricada con materiales sostenibles y ecológicos y promocionamos activamente la importancia de la moda sostenible.
 
 - **Ética en la Cadena de Suministro**: <p style="text-align: justify;">Nos aseguramos que nuestros proveedores sigan prácticas éticas en la producción de la ropa, como el respeto de los derechos laborales y la eliminación de prácticas dañinas para el medio ambiente.
 
 - **Reducción de envases y reciclaje**: <p style="text-align: justify;"> Implementamos prácticas para reducir los residuos, como la utilización de envases eco-amigables y la promoción de la reutilización y el reciclaje entre los clientes.
+
+- **Cuidado de Empleados**: <p style="text-align: justify;">Promovemos un ambiente laboral seguro y saludable, proporcionando capacitación y oportunidades de desarrollo para los empleados.
+
+- **Ética publicitaria**: <p style="text-align: justify;">Evitamos prácticas publicitarias engañosas y garantizamos un marketing ético acorde a los valores de la empresa.
 
 - **Cuidado de Empleados**: <p style="text-align: justify;">Promovemos un ambiente laboral seguro y saludable, proporcionando capacitación y oportunidades de desarrollo para los empleados.
 
