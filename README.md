@@ -91,7 +91,6 @@ Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 |
 |
 
-holaaaaaaa
 
 
 # 7.- Análisis de mercado
