@@ -177,21 +177,22 @@ Como empresa nos hemos propuesto los siguientes objetivos:
 - <p style="text-align: justify;">Diversificación de Productos: Ampliar la oferta de productos para incluir artículos relacionados con niños, como juguetes y accesorios.
 
 - Beneficios.
+
 <br><br><br>
 
 # 10-Responsabilidad Social Corporativa
 
 Desde Kiddi contribuimos a la mejora de la sociedad y del medio ambiente a través de las siguientes prácticas y acciones:
 
-- Productos Sostenibles: Ofrecemos una línea de ropa infantil fabricada con materiales sostenibles y ecológicos y promocionamos activamente la importancia de la moda sostenible.
+- **Productos Sostenibles**: <p style="text-align: justify;">Ofrecemos una línea de ropa infantil fabricada con materiales sostenibles y ecológicos y promocionamos activamente la importancia de la moda sostenible.
 
-- Ética en la Cadena de Suministro: Nos aseguramos que nuestros proveedores sigan prácticas éticas en la producción de la ropa, como el respeto de los derechos laborales y la eliminación de prácticas dañinas para el medio ambiente.
+- **Ética en la Cadena de Suministro**: <p style="text-align: justify;">Nos aseguramos que nuestros proveedores sigan prácticas éticas en la producción de la ropa, como el respeto de los derechos laborales y la eliminación de prácticas dañinas para el medio ambiente.
 
-- Reducción de envases y reciclaje: Implementamos prácticas para reducir los residuos, como la utilización de envases eco-amigables y la promoción de la reutilización y el reciclaje entre los clientes.
+- **Reducción de envases y reciclaje**: <p style="text-align: justify;"> Implementamos prácticas para reducir los residuos, como la utilización de envases eco-amigables y la promoción de la reutilización y el reciclaje entre los clientes.
 
-- Cuidado de Empleados: Promovemos un ambiente laboral seguro y saludable, proporcionando capacitación y oportunidades de desarrollo para los empleados.
+- **Cuidado de Empleados**: <p style="text-align: justify;">Promovemos un ambiente laboral seguro y saludable, proporcionando capacitación y oportunidades de desarrollo para los empleados.
 
-- Ética publicitaria: Evitamos prácticas publicitarias engañosas y garantizamos un marketing ético acorde a los valores de la empresa.
+- **Ética publicitaria**: <p style="text-align: justify;">Evitamos prácticas publicitarias engañosas y garantizamos un marketing ético acorde a los valores de la empresa.
 
 
 
