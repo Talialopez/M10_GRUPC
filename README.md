@@ -9,7 +9,7 @@
 5. [Líneas de negocio](#5-líneas-de-negocio)
 6. [Clasificación](#6-clasificación)
 7. [Análisis de mercado](#7-análisis-de-mercado)
-8. [Estrategia de marketing](#8-estratégia-de-marketing)
+8. [Estrategia de marketing](#8-estrategia-de-marketing)
 9. [Metas y objetivos](#9-metas-y-objetivos)
 10. [Responsabilidad social corporativa](#10-responsabilidad-social-corporativa)  
   
@@ -136,7 +136,7 @@ Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 
 <br><br><br>
 
-# 8-Estratégia de marketing
+# 8-Estrategia de marketing
 
 <p style="text-align: justify;">
 Si bien nuestra ropa está diseñada para niños de 0 a 14 años, reconocemos que los padres son quienes toman las decisiones de compra y tienen el poder adquisitivo para realizarlas. Por lo tanto, la estrategia se orienta a atraer padres, educar sobre sostenibilidad, generar confianza en la marca y fomentar la lealtad a largo plazo.
