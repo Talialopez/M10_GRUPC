@@ -2,52 +2,115 @@
 
 ## Índice:
 
-1. [Motivación](#motivación)
-2. [Misión](#misión)
-3. [Visión](#visión)
-4. [Valores](#valores)
-5. [Líneas de negocio](#líneas-de-negocio)
-6. [Clasificación](#clasificación)
-7. [Análisis de mercado](#análisis-de-mercado)
-8. [Estrategia de marketing](#estrategia-de-marketing)
-9. [Metas y objetivos](#metas-y-objetivos)
-10. [Responsabilidad social corporativa](#responsabilidad-social-corporativa)  
+1. [Motivación](#1-motivación)
+2. [Misión](#2-misión)
+3. [Visión](#3-visión)
+4. [Valores](#4-valores)
+5. [Líneas de negocio](#5-líneas-de-negocio)
+6. [Clasificación](#6-clasificación)
+7. [Análisis de mercado](#7-análisis-de-mercado)
+8. [Estrategia de marketing](#8-estrategia-de-marketing)
+9. [Metas y objetivos](#9-metas-y-objetivos)
+10. [Responsabilidad social corporativa](#10-responsabilidad-social-corporativa)  
   
+<br><br><br>
 
-# Motivación  
+# 1- Motivación  
   
-Hace algunos años, empezamos a notar en la ciudad de Barcelona grandes desechos de ropa infantil. La ropa que alguna vez fue amada por niños, ahora compartía lugar junto a los residuos diarios. Fue durante esos momentos, en los que nuestro equipo, se dio cuenta de la necesidad de un cambio en la forma en que vestían los pequeños/as y en cómo contribuimos al problema global de desechos.  
+<p style="text-align: justify;">Hace algunos años, empezamos a notar en la ciudad de Barcelona grandes desechos de ropa infantil. La ropa que alguna vez fue amada por niños, ahora compartía lugar junto a los residuos diarios. Fue durante esos momentos, en los que nuestro equipo, se dio cuenta de la necesidad de un cambio en la forma en que vestían los pequeños/as y en cómo contribuimos al problema global de desechos.  
   
-Nos comprometimos a encontrar una solución que permitiera vestir a los niños/as de una manera que reflejase nuestros valores de sostenibilidad y responsabilidad social. Juntos, comenzamos a investigar y buscar opciones en el mercado de la moda infantil, pero nos dimos cuenta de que no había muchas alternativas verdaderamente sostenibles en nuestra área.  
+<p style="text-align: justify;">Nos comprometimos a encontrar una solución que permitiera vestir a los niños/as de una manera que reflejase nuestros valores de sostenibilidad y responsabilidad social. Juntos, comenzamos a investigar y buscar opciones en el mercado de la moda infantil, pero nos dimos cuenta de que no había muchas alternativas verdaderamente sostenibles en nuestra área.  
 
+<p style="text-align: justify;">Fue entonces cuando nació la idea de X. Los tres nos propusimos crear una tienda de ropa infantil que no sólo ofreciera prendas de alta calidad y estilo, sino que también promoviera la sostenibilidad y la responsabilidad social en cada aspecto de nuestro negocio. Queríamos proporcionar a los niños la oportunidad de vestirse de manera  consciente y de esta manera colaborar de alguna manera en la protección de la Tierra.  
 
+<p style="text-align: justify;">Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiva en el cuidado del medio ambiente sigue inspirando a las familias y a las futuras generaciones a construir un mundo más verde.  
 
-|         **CLASIFICACIÓN**           |
-| Sector de actividad |  terciario    |
-|                                     |
-|                    |Pequeña/mediana |
-|        Tamaño      | (alrededor de  |
-|                    |  50 empleados) |
-=======
 Fue entonces cuando nació la idea de X. Los tres nos propusimos crear una tienda de ropa infantil que no sólo ofreciera prendas de alta calidad y estilo, sino que también promoviera la sostenibilidad y la responsabilidad social en cada aspecto de nuestro negocio. Queríamos proporcionar a los niños la oportunidad de vestirse de manera  consciente y de esta manera colaborar de alguna manera en la protección de la Tierra.  
-
-Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiva en el cuidado del medio ambiente sigue inspirando a las familias y a las futuras generaciones a construir un mundo más verde.  
-
-
-|-------------------------------------|
-|         **CLASIFICACIÓN**           |
-|-------------------------------------|
-| Sector de actividad |  terciario    |
-|-------------------------------------|
-|                    |Pequeña/mediana |
-|        Tamaño      | (alrededor de  |
-|                    |  50 empleados) |
-|-------------------------------------|
-
 
 <br><br><br>
 
-# 7.- Análisis de mercado
+# 4-Valores
+
+<p style="text-align: justify;">Kiddi lucha firmemente por ofrecer ropa fabricada con los mejores materiales, un hecho que caracteriza nuestra calidad en producto. 
+
+
+<p style="text-align: justify;">- Nuestros productos son trabajados para ser un diseño único y exclusivo, con materiales de lo más cómodo para los más pequeños de la casa. 
+
+<p style="text-align: justify;">- En Kiddi, también tomamos consciencia de aportar una buena atención al cliente, ya que si nuestros clientes quedan satisfechos con la experiencia en nuestra tienda es una satisfacción como negocio. 
+
+<p style="text-align: justify;">- La dedicación que hay en cada prenda hecha y la responsabilidad en vestir a un niño/a hace a nuestros proveedores destacar entre los demás.
+
+<br><br><br>
+
+<p style="text-align: justify;">- Vestir a un pequeño/a no va a ser un problema, pues en nuestras sucursales hay pasillos y pasillos de todo lo que pueda necesitar. 
+
+
+<p style="text-align: justify;">- Contamos con bolsas en las que envolver su compra, que tienen en cuenta el medioambiente, pues la ecología nos importa tanto como vestir a tu pequeño/a.
+
+<br><br><br>
+
+# 5-Líneas de negocio
+
+<p style="text-align: justify;">Kiddi principalmente está enfocada a la venta de ropa infantil. Con tallas que corresponden a niños desde los 0 años hasta los 14. Para el público más pequeño, venimos equipados también con accesorios como biberones, chupetes y cunas, estas son hechas con la mejor madera de la región.
+
+<p style="text-align: justify;">Los pasillos cuentan con un espacio pensado para el transporte de carritos para que el cliente pueda comprar con comodidad.
+
+<p style="text-align: justify;">Disponemos de baño con cambiador por si ocurre una situación de esa necesidad.
+
+<br>
+
+**Tipos de empleados:**
+
+<p style="text-align: justify;">Nuestro equipo cuenta con gente de todas las edades, tenemos una plantilla confirmada por 50 personas, repartidas en 3 tiendas. Funciones desde atención en caja, hasta atención personalizada. Nuestra oferta se interesa más en personal que cuenta con experiencia previa en el sector, aunque a todo aquel que le interese formarse y crecer en este sector, le damos la bienvenida.
+
+Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
+
+<br>
+
+**Cómo generar igresos:**
+
+- ***Atención al cliente:*** <p style="text-align: justify;"> Nuestro objetivo es ofrecer una buena experiencia y ser un referente en cuanto a gusto y calidad para aquellos que nos conocen y han comprado alguna vez en nuestras tiendas, y para los que no los esperamos con ansias de que visiten nuestras sucursales y con mucho gusto atenderlos.
+
+- ***Venta de producto:*** <p style="text-align: justify;"> Nuestra principal fuente de ingresos proviene de la ropa y accesorios de niños/as que vendemos.
+
+- ***Personalización de Ropa:*** <p style="text-align: justify;"> Uno de nuestros servicios es el de la personalización, permitiendo a los clientes agregar el nombre de sus hijos a la ropa que compran. Esta opción adicional genera ingresos adicionales y crea prendas únicas y especiales.
+
+- ***Promociones y ofertas especiales:*** <p style="text-align: justify;"> Tenemos promociones y promociones en momentos concretos, como la vuelta al cole, que fomenta la fidelidad de los clientes ya existentes y atrae a los nuevos, con esto generaríamos ventas adicionales.
+
+- ***Programa de fidelidad:*** <p style="text-align: justify;"> Para nuestros queridos clientes fieles les damos su recompensa que consiste a veces en descuentos o ventajas exclusivas. De esta manera fomentamos la fidelidad del cliente y generamos ingresos por las ventas repetidas.
+
+- ***Colaboraciones:*** <p style="text-align: justify;"> Nos abrimos a colaborar con otras marcas que tengan productos parecidos para poder así aumentar nuestras ventas.
+
+-  ***Venta en línea:*** <p style="text-align: justify;"> Mantenemos una plataforma online para poder llegar a un público más amplio y que compren nuestros productos en línea y así generar más ventas.
+
+<br><br><br>
+
+# 6-Clasificación
+
+
+|---------------------------------------------------------------------------|
+| **CLASIFICACIÓN**                                                         |
+|----------------------------|----------------------------------------------|
+| Sector de actividad        |  terciario                                   |
+|---------------------------------------------------------------------------|
+|                            | Pequeña/mediana                              |
+| Tamaño                     | (alrededor de                                |
+|                            |  50 empleados)                               |
+|---------------------------------------------------------------------------|
+| Propiedad del capital      | Privada                                      |
+|---------------------------------------------------------------------------|
+| Ámbito de actividad        | Local/Regional                               |
+|---------------------------------------------------------------------------| 
+| Destino de los beneficios  | Ánimo de lucro                               |
+|---------------------------------------------------------------------------|
+| Forma jurídica             | Sociedad limitada                            |
+|                            | (la responsabilidad de los propietarios      |
+|                            | está limitada a sus aportaciones de capital) |
+|----------------------------|----------------------------------------------|
+            
+<br><br><br>
+
+# 7-Análisis de mercado
 
 <p style="text-align: justify;">Niños de 0 a 14 años y sus padres son el público objetivo principal de Kiddi. Este grupo demográfico se divide en varias categorías según la edad:
 
@@ -73,7 +136,7 @@ Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiv
 
 <br><br><br>
 
-# 8.- Estratégia de marketing
+# 8-Estrategia de marketing
 
 <p style="text-align: justify;">
 Si bien nuestra ropa está diseñada para niños de 0 a 14 años, reconocemos que los padres son quienes toman las decisiones de compra y tienen el poder adquisitivo para realizarlas. Por lo tanto, la estrategia se orienta a atraer padres, educar sobre sostenibilidad, generar confianza en la marca y fomentar la lealtad a largo plazo.
@@ -83,7 +146,7 @@ Para iniciar nuestra estrategia de marketing aprovecharemos las tendencias demog
 
 <br><br><br>
 
-# 9.- Metas y objetivos
+# 9-Metas y objetivos
 
 Como empresa nos hemos propuesto los siguientes objetivos:
 
@@ -114,24 +177,20 @@ Como empresa nos hemos propuesto los siguientes objetivos:
 - <p style="text-align: justify;">Diversificación de Productos: Ampliar la oferta de productos para incluir artículos relacionados con niños, como juguetes y accesorios.
 
 - Beneficios.
-<br><br><br>
 
-# 10.- Responsabilidad Social Corporativa
+
+# 10-Responsabilidad Social Corporativa
+
 
 Desde Kiddi contribuimos a la mejora de la sociedad y del medio ambiente a través de las siguientes prácticas y acciones:
 
-- Productos Sostenibles: Ofrecemos una línea de ropa infantil fabricada con materiales sostenibles y ecológicos y promocionamos activamente la importancia de la moda sostenible.
+- **Productos Sostenibles**: <p style="text-align: justify;">Ofrecemos una línea de ropa infantil fabricada con materiales sostenibles y ecológicos y promocionamos activamente la importancia de la moda sostenible.
 
-- Ética en la Cadena de Suministro: Nos aseguramos que nuestros proveedores sigan prácticas éticas en la producción de la ropa, como el respeto de los derechos laborales y la eliminación de prácticas dañinas para el medio ambiente.
+- **Ética en la Cadena de Suministro**: <p style="text-align: justify;">Nos aseguramos que nuestros proveedores sigan prácticas éticas en la producción de la ropa, como el respeto de los derechos laborales y la eliminación de prácticas dañinas para el medio ambiente.
 
-- Reducción de envases y reciclaje: Implementamos prácticas para reducir los residuos, como la utilización de envases eco-amigables y la promoción de la reutilización y el reciclaje entre los clientes.
+- **Reducción de envases y reciclaje**: <p style="text-align: justify;"> Implementamos prácticas para reducir los residuos, como la utilización de envases eco-amigables y la promoción de la reutilización y el reciclaje entre los clientes.
 
-- Cuidado de Empleados: Promovemos un ambiente laboral seguro y saludable, proporcionando capacitación y oportunidades de desarrollo para los empleados.
+- **Cuidado de Empleados**: <p style="text-align: justify;">Promovemos un ambiente laboral seguro y saludable, proporcionando capacitación y oportunidades de desarrollo para los empleados.
 
-- Ética publicitaria: Evitamos prácticas publicitarias engañosas y garantizamos un marketing ético acorde a los valores de la empresa.
+- **Ética publicitaria**: <p style="text-align: justify;">Evitamos prácticas publicitarias engañosas y garantizamos un marketing ético acorde a los valores de la empresa.
 
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 36342cc6e7fea0f29aa3eadd685d49b5edd7f331
