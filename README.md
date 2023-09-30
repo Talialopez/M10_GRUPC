@@ -75,7 +75,7 @@ Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 
 |---------------------------------------------------------------------------|
 | **CLASIFICACIÓN**                                                         |
-|----------------------------|----------------------------------------------|
+|---------------------------------------------------------------------------|
 | Sector de actividad        |  terciario                                   |
 |---------------------------------------------------------------------------|
 |                            | Pequeña/mediana                              |
@@ -91,7 +91,7 @@ Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 | Forma jurídica             | Sociedad limitada                            |
 |                            | (la responsabilidad de los propietarios      |
 |                            | está limitada a sus aportaciones de capital) |
-|----------------------------|----------------------------------------------|
+|---------------------------------------------------------------------------|
             
 
 
