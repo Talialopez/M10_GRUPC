@@ -24,7 +24,7 @@
   
 <p style="text-align: justify;">Nos comprometimos a encontrar una solución que permitiera vestir a los niños/as de una manera que reflejase nuestros valores de sostenibilidad y responsabilidad social. Juntos, comenzamos a investigar y buscar opciones en el mercado de la moda infantil, pero nos dimos cuenta de que no había muchas alternativas verdaderamente sostenibles en nuestra área.  
 
-<p style="text-align: justify;">Fue entonces cuando nació la idea de X. Los tres nos propusimos crear una tienda de ropa infantil que no sólo ofreciera prendas de alta calidad y estilo, sino que también promoviera la sostenibilidad y la responsabilidad social en cada aspecto de nuestro negocio. Queríamos proporcionar a los niños la oportunidad de vestirse de manera  consciente y de esta manera colaborar de alguna manera en la protección de la Tierra.  
+<p style="text-align: justify;">Fue entonces cuando nació la idea de Juno. Los tres nos propusimos crear una tienda de ropa infantil que no sólo ofreciera prendas de alta calidad y estilo, sino que también promoviera la sostenibilidad y la responsabilidad social en cada aspecto de nuestro negocio. Queríamos proporcionar a los niños la oportunidad de vestirse de manera  consciente y de esta manera colaborar de alguna manera en la protección de la Tierra.  
 
 <p style="text-align: justify;">Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiva en el cuidado del medio ambiente sigue inspirando a las familias y a las futuras generaciones a construir un mundo más verde.  
 
