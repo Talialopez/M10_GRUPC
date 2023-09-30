@@ -40,8 +40,6 @@ Fue entonces cuando nació la idea de X. Los tres nos propusimos crear una tiend
 
 <p style="text-align: justify;">- La dedicación que hay en cada prenda hecha y la responsabilidad en vestir a un niño/a hace a nuestros proveedores destacar entre los demás.
 
-<br><br><br>
-
 <p style="text-align: justify;">- Vestir a un pequeño/a no va a ser un problema, pues en nuestras sucursales hay pasillos y pasillos de todo lo que pueda necesitar. 
 
 
