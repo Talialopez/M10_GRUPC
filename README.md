@@ -96,7 +96,6 @@ Juno se clasifica en diversos aspectos que definen su naturaleza y estructura. E
 | Forma jurídica | Sociedad limitada (la responsabilidad de los propietarios está limitada a sus aportaciones de capital) 
 
 
-
 <br><br><br>
 
 # 7-Análisis de mercado
@@ -166,9 +165,11 @@ Como empresa nos hemos propuesto los siguientes objetivos:
 
 - Beneficios.
 
+
 <br><br><br>
 
 # 10-Responsabilidad Social Corporativa
+
 
 Desde Juno contribuimos a la mejora de la sociedad y del medio ambiente a través de las siguientes prácticas y acciones:
 
@@ -182,7 +183,7 @@ Desde Juno contribuimos a la mejora de la sociedad y del medio ambiente a travé
 
 - **Ética publicitaria**: <p style="text-align: justify;">Evitamos prácticas publicitarias engañosas y garantizamos un marketing ético acorde a los valores de la empresa.
 
+- **Cuidado de Empleados**: <p style="text-align: justify;">Promovemos un ambiente laboral seguro y saludable, proporcionando capacitación y oportunidades de desarrollo para los empleados.
 
-
-
+- **Ética publicitaria**: <p style="text-align: justify;">Evitamos prácticas publicitarias engañosas y garantizamos un marketing ético acorde a los valores de la empresa.
 
