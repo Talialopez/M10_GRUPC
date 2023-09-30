@@ -16,7 +16,7 @@
 
 <br><br><br>
 
-# 1- Motivación
+# 1-Motivación
   
 <p style="text-align: justify;">Hace algunos años, empezamos a notar en la ciudad de Barcelona grandes desechos de ropa infantil. La ropa que alguna vez fue amada por niños, ahora compartía lugar junto a los residuos diarios. Fue durante esos momentos, en los que nuestro equipo, se dio cuenta de la necesidad de un cambio en la forma en que vestían los pequeños/as y en cómo contribuimos al problema global de desechos.  
   
@@ -27,6 +27,37 @@ Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiv
 
 <p style="text-align: justify;">Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiva en el cuidado del medio ambiente sigue inspirando a las familias y a las futuras generaciones a construir un mundo más verde.
   
+<br><br><br>
+
+# 2-Misión
+
+<p style="text-align: justify;">Nuestra misión es ofrecer a los niños prendas que logren reflejar su alegría y personalidad, mientras fomentamos la sostenibilidad y la responsabilidad social en cada aspecto de nuestra elección de proveedores. 
+
+<p style="text-align: justify;">Esta se sustenta en 4 pilares esenciales:
+
+<p style="text-align: justify;">**Compromiso:** Nos dedicamos a ofrecer productos de la más alta calidad, con materiales seguros y cómodos para los niños, diseñados para resistir el paso del tiempo.
+
+<p style="text-align: justify;">**Promoviendo la personalidad:** Valoramos la individualidad y la creatividad de cada niño. Queremos ser una fuente de inspiración para las familias que buscan prendas únicas para sus hijos.
+
+<p style="text-align: justify;">**Sostenibilidad y Responsabilidad Ambiental:** Reconocemos la importancia de proteger nuestro planeta para las generaciones futuras. Estamos comprometidos con prácticas de fabricación sostenibles y responsables, minimizando nuestro impacto ambiental y apoyando a comunidades locales en Barcelona. Nos esforzamos por ser líderes en la moda infantil sostenible.
+
+Creemos que a través de nuestra pasión por la moda infantil y nuestro compromiso con la comunidad y el medio ambiente, podemos marcar una diferencia positiva en la vida de los niños y en el mundo que heredarán. 
+
+<br><br><br>
+
+# 3-Visión
+
+<p style="text-align: justify;">Abrazamos la visión de un mundo en el que la moda infantil no solo refleje el estilo y la personalidad de cada niño, sino también su compromiso con el planeta que heredará. Nos esforzamos por ser un referente de sostenibilidad en la industria de la moda infantil.
+
+<p style="text-align: justify;">Nuestra pasión por la moda sostenible nos impulsa a buscar constantemente proveedores ecológicos y procesos de fabricación responsables. Creemos que al ofrecer opciones de moda que respetan y protegen el medio ambiente, estamos sembrando semillas de conciencia y cuidado en las mentes jóvenes.
+
+<p style="text-align: justify;">Cada niño que elige una de nuestras prendas se convierte en un pequeño guardián del medio ambiente, llevando consigo un mensaje de responsabilidad y respeto. Aspiramos a que los niños sean inspirados por su ropa, para que a medida que crezcan, continúen tomando decisiones que protejan nuestro mundo natural.
+
+<p style="text-align: justify;">Nuestra visión es simple y profunda: a través de la moda sostenible, capacitamos a los niños para que se conviertan en agentes de cambio positivo en nuestro planeta. Juntos, creamos un futuro donde la moda y la sostenibilidad se entrelazan, y donde nuestros pequeños clientes se convierten en embajadores del cambio
+
+<p style="text-align: justify;">Queremos ser reconocidos no solo por la calidad excepcional de nuestras prendas, sino también por nuestra capacidad para adaptarnos a las necesidades cambiantes de las familias y las tendencias de la moda infantil. 
+Aspiramos a crear una comunidad en la que las familias confíen en nosotros para vestir a sus pequeños, sabiendo que estamos comprometidos con la calidad, la ética y la responsabilidad social. Nos esforzamos por ser una marca que crezca con sus hijos, acompañándolos en su viaje de descubrimiento y crecimiento.
+
 <br><br><br>
 
 # 4-Valores
@@ -93,6 +124,7 @@ Juno se clasifica en diversos aspectos que definen su naturaleza y estructura. E
 | Ámbito de actividad | Local/Regional   
 | Destino de los beneficios | Ánimo de lucro 
 | Forma jurídica | Sociedad limitada (la responsabilidad de los propietarios está limitada a sus aportaciones de capital) 
+
 <br><br><br>
 
 # 7-Análisis de mercado
@@ -178,4 +210,3 @@ Desde Juno contribuimos a la mejora de la sociedad y del medio ambiente a travé
 - **Cuidado de Empleados**: <p style="text-align: justify;">Promovemos un ambiente laboral seguro y saludable, proporcionando capacitación y oportunidades de desarrollo para los empleados.
 
 - **Ética publicitaria**: <p style="text-align: justify;">Evitamos prácticas publicitarias engañosas y garantizamos un marketing ético acorde a los valores de la empresa.
-
