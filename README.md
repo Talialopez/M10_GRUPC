@@ -3,16 +3,17 @@
 #### ***Descubre la Magia de la Moda Infantil***
 <br>
 
-1. [Motivación](#motivación)
-2. [Misión](#misión)
-3. [Visión](#visión)
-4. [Valores](#valores)
-5. [Líneas de negocio](#líneas-de-negocio)
-6. [Clasificación](#clasificación)
-7. [Análisis de mercado](#análisis-de-mercado)
-8. [Estrategia de marketing](#estrategia-de-marketing)
-9. [Metas y objetivos](#metas-y-objetivos)
-10. [Responsabilidad social corporativa](#responsabilidad-social-corporativa)  
+1. [Motivación](#1-motivación)
+2. [Misión](#2-misión)
+3. [Visión](#3-visión)
+4. [Valores](#4-valores)
+5. [Líneas de negocio](#5-líneas-de-negocio)
+6. [Clasificación](#6-clasificación)
+7. [Análisis de mercado](#7-análisis-de-mercado)
+8. [Estrategia de marketing](#8-estrategia-de-marketing)
+9. [Metas y objetivos](#9-metas-y-objetivos)
+10. [Responsabilidad social corporativa](#10-responsabilidad-social-corporativa)  
+
 <br><br><br>
 
 # 1- Motivación
@@ -26,7 +27,6 @@ Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiv
 
 <p style="text-align: justify;">Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiva en el cuidado del medio ambiente sigue inspirando a las familias y a las futuras generaciones a construir un mundo más verde.
   
-
 <br><br><br>
 
 # 4-Valores
@@ -106,60 +106,20 @@ Juno se clasifica en diversos aspectos que definen su naturaleza y estructura. E
 
 <p style="text-align: justify;">En la siguiente tabla se describen los puntos clave del mercado de ropa infantil:
 
-|--------------------------------------------------------------------|
-|     **Aspecto**    |                 **Descripción**               |
-|--------------------------------------------------------------------|
-|                    | El mercado de ropa infantil en Gràcia es      |
-|       Tamaño       | considerable debido a la densidad de población|
-|                    | de población en este barrio de                |
-|                    | Barcelona.                                    |
-|--------------------------------------------------------------------|
-|       Público      | Gràcia es un barrio con una alta concentración|             
-|       objetivo     | de familias, lo que lo hace ideal para esta   | 
-|                    | tipología de negocio.                         |
-|--------------------------------------------------------------------|
-|                    | Existen varias tiendas de ropa infantil en    |
-|                    | Gràcia, tanto locales independientes como     |
-|      Competéncia   | franquicias de marcas conocidas. Algunos      |
-|                    | competidores pueden tener una preséncia en    |
-|                    | pueden tener una presencia en línea también.  |
-|--------------------------------------------------------------------|
-|                    | **Sostenibilidad**: La conciencia ambiental   |
-|                    | está en aumento, por lo que la oferta de ropa |
-|      Tendencias    | infantil sostenible es una tendéncia          |
-|         del        | importante. Los padres buscan ropa hecha de   |
-|       mercado      | materiales orgánicos y métodos de producción  |
-|                    | transparentes.                                |
-|                    |                                               |
-|                    | **Comercio electrónico**: El comercio en      |
-|                    | línea es cada vez más popular.                |
-|                    |                                               |
-|                    | **Exclusividad**: Algunos padres aprecian     |
-|                    | la ropa personalizada y única para sus hijos. |
-|                    | Ofrecer opciones personalizadas de compra     |
-|                    | será una de nuestras ventajas competitivas.   |
-|                    |                                               |
-|                    | **Experiencia de compra**: Ofrecer una        |
-|                    | experiencia de compra agradable y acogedora   |
-|                    | en la tienda física es factor clave para      |
-|                    | atraer clientes.                              |
-|--------------------------------------------------------------------|
-|                    | La demanda de ropa infantil es constante,     |
-|      Demanda       | pero puede haber picos estacionales, como la  |
-|                    | temporada de regreso a la escuela y las       |
-|                    | festividades navideñas.                       |
-|--------------------------------------------------------------------|
-|                    | Las barreras de entrada incluyen la inversión |
-|     Barreras       | inicial en inventario, la competencia         |
-|    de entrada      | establecida y la necesidad de establecer una  |
-|                    | marca sólida y confiable.                     |
-|--------------------------------------------------------------------|
-|   Colaboraciones   | Se pueden explorar oportunidades de           |
-|     y alianzas     | colaboración con escuelas locales, guarderías |
-|                    | y otros negocios relacionados con niños.      |
-|--------------------------------------------------------------------|
-
 <br>
+
+---
+| **Aspecto** |       **Descripción**                      
+|---|-
+| Tamaño | <p style="text-align: justify;">El mercado de ropa infantil en Gràcia es considerable debido a la densidad de población en este barrio de Barcelona.      
+| Público objetivo | <p style="text-align: justify;">Gràcia es un barrio con una alta concentración de familias, lo que lo hace ideal para este tipo de negocio.    
+| Competéncia | <p style="text-align: justify;">Existen varias tiendas de ropa infantil en Gràcia, tanto locales independientes como franquicias de marcas conocidas. Algunos competidores pueden tener una preséncia en línea también. 
+| Tendencias del mercado | <p style="text-align: justify;">**Sostenibilidad**: La conciencia ambientalestá en aumento, por lo que la oferta de ropa infantil sostenible es una tendéncia importante. Los padres buscan ropa hecha de materiales orgánicos y métodos de producción transparentes.<br><br> <p style="text-align: justify;">**Comercio electrónico**: El comercio en línea es cada vez más popular. <br><br> <p style="text-align: justify;">**Exclusividad**: Algunos padres aprecian la ropa personalizada y única para sus hijos. Ofrecer opciones personalizadas de compra será una de nuestras ventajas competitivas. <br><br> <p style="text-align: justify;">**Experiencia de compra**: Ofrecer unaexperiencia de compra agradable y acogedora en la tienda física es factor clave para atraer clientes. 
+| Demanda | <p style="text-align: justify;">La demanda de ropa infantil es constante, pero puede haber picos estacionales, como la temporada de regreso a la escuela y las festividades navideñas.
+| Barreras de entrada | <p style="text-align: justify;">Las barreras de entrada incluyen la inversión inicial en inventario, la competencia establecida y la necesidad de establecer una marca sólida y confiable.
+| Colaboraciones y alianzas | <p style="text-align: justify;">Se pueden explorar oportunidades de colaboración con escuelas locales, guarderías y otros negocios relacionados con niños.
+
+<br><br><br>
 
 # 8-Estrategia de marketing
 
