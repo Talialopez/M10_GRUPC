@@ -74,22 +74,20 @@ Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 
 
 
-|                 **CLASIFICACIÓN**               |
-|----------------------------|--------------------|
-| Sector de actividad        |  terciario         |
-|                            | Pequeña/mediana    |
-| Tamaño                     | (alrededor de      |
-|                            |  50 empleados)     |
-| Propiedad del capital      | Privada            |
-| Ámbito de actividad        | Local/Regional     | 
-|  Destino de los beneficios |  Ánimo de lucro    |
-|                            
-|
-|
-|
-|
-|
-|
+|                 **CLASIFICACIÓN**                                         |
+|----------------------------|----------------------------------------------|
+| Sector de actividad        |  terciario                                   |
+|                            | Pequeña/mediana                              |
+| Tamaño                     | (alrededor de                                |
+|                            |  50 empleados)                               |
+| Propiedad del capital      | Privada                                      |
+| Ámbito de actividad        | Local/Regional                               | 
+| Destino de los beneficios  | Ánimo de lucro                               |
+| Forma jurídica             | Sociedad limitada                            |
+|                            | (la responsabilidad de los propietarios      |
+|                            | está limitada a sus aportaciones de capital) |
+|----------------------------|----------------------------------------------|
+            
 
 
 
