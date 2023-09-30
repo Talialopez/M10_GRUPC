@@ -183,7 +183,3 @@ Desde Juno contribuimos a la mejora de la sociedad y del medio ambiente a travé
 
 - **Ética publicitaria**: <p style="text-align: justify;">Evitamos prácticas publicitarias engañosas y garantizamos un marketing ético acorde a los valores de la empresa.
 
-- **Cuidado de Empleados**: <p style="text-align: justify;">Promovemos un ambiente laboral seguro y saludable, proporcionando capacitación y oportunidades de desarrollo para los empleados.
-
-- **Ética publicitaria**: <p style="text-align: justify;">Evitamos prácticas publicitarias engañosas y garantizamos un marketing ético acorde a los valores de la empresa.
-
