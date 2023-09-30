@@ -2,6 +2,10 @@
 
 ## Índice:
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 2acdf6e5b478729a8fdafb47895c103ed7a1d995
 1. [Motivación](#motivación)
 2. [Misión](#misión)
 3. [Visión](#visión)
@@ -12,10 +16,10 @@
 8. [Estrategia de marketing](#estrategia-de-marketing)
 9. [Metas y objetivos](#metas-y-objetivos)
 10. [Responsabilidad social corporativa](#responsabilidad-social-corporativa)  
-<br>
-<br>
-<br>
+<br><br><br>
 
+<<<<<<< HEAD
+=======
 # Motivación  
 
 <div style="text-align: justify; text-justify: inter-word;">
@@ -43,6 +47,7 @@ Nos comprometimos a encontrar una solución que permitiera vestir a los niños/a
   
 <br><br><br>
 
+>>>>>>> 2acdf6e5b478729a8fdafb47895c103ed7a1d995
 # 1- Motivación
   
 <p style="text-align: justify;">Hace algunos años, empezamos a notar en la ciudad de Barcelona grandes desechos de ropa infantil. La ropa que alguna vez fue amada por niños, ahora compartía lugar junto a los residuos diarios. Fue durante esos momentos, en los que nuestro equipo, se dio cuenta de la necesidad de un cambio en la forma en que vestían los pequeños/as y en cómo contribuimos al problema global de desechos.  
@@ -50,8 +55,14 @@ Nos comprometimos a encontrar una solución que permitiera vestir a los niños/a
 <p style="text-align: justify;">Nos comprometimos a encontrar una solución que permitiera vestir a los niños/as de una manera que reflejase nuestros valores de sostenibilidad y responsabilidad social. Juntos, comenzamos a investigar y buscar opciones en el mercado de la moda infantil, pero nos dimos cuenta de que no había muchas alternativas verdaderamente sostenibles en nuestra área.  
 
 <p style="text-align: justify;">Fue entonces cuando nació la idea de Juno. Los tres nos propusimos crear una tienda de ropa infantil que no sólo ofreciera prendas de alta calidad y estilo, sino que también promoviera la sostenibilidad y la responsabilidad social en cada aspecto de nuestro negocio. Queríamos proporcionar a los niños la oportunidad de vestirse de manera  consciente y de esta manera colaborar de alguna manera en la protección de la Tierra.  
+Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiva en el cuidado del medio ambiente sigue inspirando a las familias y a las futuras generaciones a construir un mundo más verde.  
 
+<<<<<<< HEAD
+<p style="text-align: justify;">Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiva en el cuidado del medio ambiente sigue inspirando a las familias y a las futuras generaciones a construir un mundo más verde.
+  
+=======
 <p style="text-align: justify;">Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiva en el cuidado del medio ambiente sigue inspirando a las familias y a las futuras generaciones a construir un mundo más verde.  
+>>>>>>> 2acdf6e5b478729a8fdafb47895c103ed7a1d995
 
 <br><br><br>
 
@@ -81,6 +92,10 @@ Nos comprometimos a encontrar una solución que permitiera vestir a los niños/a
 <p style="text-align: justify;">Disponemos de baño con cambiador por si ocurre una situación de esa necesidad.
 
 
+<<<<<<< HEAD
+**Tipos de empleados:**
+
+=======
 Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiva en el cuidado del medio ambiente sigue inspirando a las familias y a las futuras generaciones a construir un mundo más verde.  
 </div>
 <br>
@@ -150,6 +165,7 @@ Vestir a un pequeño/a no va a ser un problema, pues en nuestras sucursales hay 
 **Tipos de empleados:**
 
 
+>>>>>>> 2acdf6e5b478729a8fdafb47895c103ed7a1d995
 <p style="text-align: justify;">Nuestro equipo cuenta con gente de todas las edades, tenemos una plantilla confirmada por 50 personas, repartidas en 3 tiendas. Funciones desde atención en caja, hasta atención personalizada. Nuestra oferta se interesa más en personal que cuenta con experiencia previa en el sector, aunque a todo aquel que le interese formarse y crecer en este sector, le damos la bienvenida.
 
 Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
@@ -186,8 +202,11 @@ Juno se clasifica en diversos aspectos que definen su naturaleza y estructura. E
 | Ámbito de actividad | Local/Regional   
 | Destino de los beneficios | Ánimo de lucro 
 | Forma jurídica | Sociedad limitada (la responsabilidad de los propietarios está limitada a sus aportaciones de capital) 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 2acdf6e5b478729a8fdafb47895c103ed7a1d995
 <br><br><br>
 
 # 7-Análisis de mercado
@@ -253,6 +272,8 @@ En la siguiente tabla se describen los puntos clave del mercado de ropa infantil
 |     y alianzas     | colaboración con escuelas locales, guarderías |
 |                    | y otros negocios relacionados con niños.      |
 |--------------------------------------------------------------------|
+<<<<<<< HEAD
+=======
 
 <p style="text-align: justify;">En la siguiente tabla se describen los puntos clave del mercado de ropa infantil:
 
@@ -295,7 +316,34 @@ Como empresa nos hemos propuesto los siguientes objetivos:
 - <p style="text-align: justify;">Programa de Lealtad: Implementar un programa de lealtad que recompense a los clientes frecuentes con descuentos y regalos exclusivos en el segundo trimestre.
 
 - <p style="text-align: justify;">Recuperación de la Inversión: Recuperar la inversión inicial realizada.
+>>>>>>> 2acdf6e5b478729a8fdafb47895c103ed7a1d995
 
+<br>
+
+# 8-Estrategia de marketing
+
+<p style="text-align: justify;">
+Si bien nuestra ropa está diseñada para niños de 0 a 14 años, reconocemos que los padres son quienes toman las decisiones de compra y tienen el poder adquisitivo para realizarlas. Por lo tanto, la estrategia se orienta a atraer padres, educar sobre sostenibilidad, generar confianza en la marca y fomentar la lealtad a largo plazo.
+
+<p style="text-align: justify;">Para iniciar nuestra estrategia de marketing aprovecharemos las tendencias demográficas actuales. Según datos proporcionados por el Instituto Nacional de Estadística (INE), la edad promedio de maternidad y paternidad en España se sitúa en 32,6 años. Por lo tanto, nuestra estrategia se orientará hacia las redes sociales, específicamente Instagram y Facebook, que son plataformas muy utilizadas por este grupo demográfico.
+
+<br><br><br>
+
+# 9-Metas y objetivos
+
+Como empresa nos hemos propuesto los siguientes objetivos:
+
+**A corto plazo (primer año)**:
+
+- <p style="text-align: justify;">Iniciar Operaciones en Línea: Establecer una plataforma de comercio electrónico funcional y atractiva para complementar las tiendas físicas en los primeros seis meses.
+
+- <p style="text-align: justify;">Incremento de Clientes: Aumentar la base de clientes en las tiendas físicas y en línea en un 20% durante el primer año.
+
+- <p style="text-align: justify;">Colaboraciones Locales: Establecer alianzas con al menos dos escuelas locales para promocionar la marca y productos a las familias.
+
+- <p style="text-align: justify;">Programa de Lealtad: Implementar un programa de lealtad que recompense a los clientes frecuentes con descuentos y regalos exclusivos en el segundo trimestre.
+
+- <p style="text-align: justify;">Recuperación de la Inversión: Recuperar la inversión inicial realizada.
 
 
 **A largo plazo:**
