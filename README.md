@@ -25,11 +25,14 @@
 
 <p style="text-align: justify;">Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiva en el cuidado del medio ambiente sigue inspirando a las familias y a las futuras generaciones a construir un mundo más verde.  
 
+Fue entonces cuando nació la idea de X. Los tres nos propusimos crear una tienda de ropa infantil que no sólo ofreciera prendas de alta calidad y estilo, sino que también promoviera la sostenibilidad y la responsabilidad social en cada aspecto de nuestro negocio. Queríamos proporcionar a los niños la oportunidad de vestirse de manera  consciente y de esta manera colaborar de alguna manera en la protección de la Tierra.  
+
 <br><br><br>
 
 # 4-Valores
 
 <p style="text-align: justify;">Kiddi lucha firmemente por ofrecer ropa fabricada con los mejores materiales, un hecho que caracteriza nuestra calidad en producto. 
+
 
 <p style="text-align: justify;">- Nuestros productos son trabajados para ser un diseño único y exclusivo, con materiales de lo más cómodo para los más pequeños de la casa. 
 
@@ -37,8 +40,10 @@
 
 <p style="text-align: justify;">- La dedicación que hay en cada prenda hecha y la responsabilidad en vestir a un niño/a hace a nuestros proveedores destacar entre los demás.
 
+<br><br><br>
 
 <p style="text-align: justify;">- Vestir a un pequeño/a no va a ser un problema, pues en nuestras sucursales hay pasillos y pasillos de todo lo que pueda necesitar. 
+
 
 <p style="text-align: justify;">- Contamos con bolsas en las que envolver su compra, que tienen en cuenta el medioambiente, pues la ecología nos importa tanto como vestir a tu pequeño/a.
 
@@ -103,8 +108,6 @@ Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 |                            | está limitada a sus aportaciones de capital) |
 |----------------------------|----------------------------------------------|
             
-
-
 <br><br><br>
 
 # 7-Análisis de mercado
@@ -175,9 +178,9 @@ Como empresa nos hemos propuesto los siguientes objetivos:
 
 - Beneficios.
 
-<br><br><br>
 
 # 10-Responsabilidad Social Corporativa
+
 
 Desde Kiddi contribuimos a la mejora de la sociedad y del medio ambiente a través de las siguientes prácticas y acciones:
 
@@ -190,8 +193,4 @@ Desde Kiddi contribuimos a la mejora de la sociedad y del medio ambiente a trav�
 - **Cuidado de Empleados**: <p style="text-align: justify;">Promovemos un ambiente laboral seguro y saludable, proporcionando capacitación y oportunidades de desarrollo para los empleados.
 
 - **Ética publicitaria**: <p style="text-align: justify;">Evitamos prácticas publicitarias engañosas y garantizamos un marketing ético acorde a los valores de la empresa.
-
-
-
-
 
