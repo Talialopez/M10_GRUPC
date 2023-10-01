@@ -1,6 +1,9 @@
 # Juno
 
 #### ***Descubre la Magia de la Moda Infantil***
+![Imagen](C:/Usuarios/TuUsuario/Descargas/Juno.png)
+
+
 <br>
 
 1. [Motivación](#1-motivación)
