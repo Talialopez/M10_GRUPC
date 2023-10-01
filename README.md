@@ -1,12 +1,8 @@
 # Juno
 
 #### ***Descubre la Magia de la Moda Infantil***
-<<<<<<< HEAD
-![Logo Juno](C:\Users\talia\OneDrive\Imágenes\Juno.png)
-=======
 
-![Imagen](C:/Usuarios/TuUsuario/Descargas/Juno.png)
->>>>>>> a695508ce708c4c334ccd1f0f15fd101baa372a7
+![Logo Juno](C:\Users\talia\OneDrive\Imágenes\Juno.png)
 
 <br>
 
