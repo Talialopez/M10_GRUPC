@@ -139,7 +139,7 @@ Como empresa nos hemos propuesto los siguientes objetivos:
 
 **A largo plazo:**
 
-Liderazgo en el Mercado Local: Convertirnos en la tienda líder de ropa infantil en Gràcia, siendo la primera opción para los padres en el barrio.
+- **Liderazgo en el Mercado Local**: Convertirnos en la tienda líder de ropa infantil en Gràcia, siendo la primera opción para los padres en el barrio.
 
 - **Expansión Regional**: Desarrollar una presencia en otras áreas de Barcelona y sus alrededores para ampliar nuestro alcance y atraer a clientes de toda la región.
 
