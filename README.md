@@ -162,8 +162,8 @@ Si bien nuestra ropa está diseñada para niños de 0 a 14 años, reconocemos qu
 <br><br>
 
 ---
-| **Acciones Marketing Digital**          |                    |                    |
-|----------------------|--------------------|--------------------|
+| **Acciones Marketing Digital**          |
+|----------------------|
 |  Crear  perfiles de negocio en redes sociales para llegar de manera efectiva a los padres y madres que buscan moda sostenible para sus hijos. 
 | Colaborar con influencers que se dediquen a ofrecer contenido relacionado con la crianza, la moda infantil y la sostenibilidad.   
 |Publicar contenido relevante en nuestras RRSS destacando la calidad de nuestros productos, como por ejemplo, con historias y publicaciones en tiempo real.                    |
@@ -171,8 +171,8 @@ Si bien nuestra ropa está diseñada para niños de 0 a 14 años, reconocemos qu
 <br>
 
 ---
-| **Acciones Email Marketing**          |                    |
-|----------------------|--------------------|
+| **Acciones Email Marketing**          |
+|----------------------|
 |Construir una lista de suscriptores para que los visitantes interesados puedan recibir actualizaciones y ofertas exclusivas.           |
 Crear correos automatizados para celebrar cumpleaños de niños con ofertas especiales.                    |
 <br>
@@ -185,6 +185,7 @@ La ***creación de un calendario de publicación*** nos ayudara con fechas clave
 | **Acción  calendario de publicación**          |
 |------------------------------------------------|
 |Promoción de productos específicos, consejos relacionados con las temporadas, contenido educativo sobre moda sostenible y mensajes temáticos relacionados con eventos escolares y festivos.                                                 |
+
 <br><br><br>
 
 # 9-Metas y objetivos
