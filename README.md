@@ -18,7 +18,7 @@
 
 # 1-Motivación
   
-<p style="text-align: justify;">Hace algunos años, empezamos a notar en la ciudad de Barcelona grandes desechos de ropa infantil. La ropa que alguna vez fue amada por niños, ahora compartía lugar junto a los residuos diarios. Fue durante esos momentos, en los que nuestro equipo, se dio cuenta de la necesidad de un cambio en la forma en que vestían los pequeños/as y en cómo contribuimos al problema global de desechos.  
+<p style="text-align: justify;">Hace algunos años, empezamos a notar en la ciudad de Barcelona grandes desechos de ropa infantil. La ropa que alguna vez fue amada por niños, ahora compartía lugar junto a los residuos diarios. Fue durante esos momentos, en los que nuestro equipo, se dio cuenta de la necesidad de un cambio en la forma en que vestían los pequeños/as y en cómo contribuimos al problema global de desechos. 
   
 <p style="text-align: justify;">Nos comprometimos a encontrar una solución que permitiera vestir a los niños/as de una manera que reflejase nuestros valores de sostenibilidad y responsabilidad social. Juntos, comenzamos a investigar y buscar opciones en el mercado de la moda infantil, pero nos dimos cuenta de que no había muchas alternativas verdaderamente sostenibles en nuestra área.  
 
@@ -35,11 +35,11 @@ Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiv
 
 <p style="text-align: justify;">Esta se sustenta en 4 pilares esenciales:
 
-<p style="text-align: justify;">**Compromiso:** Nos dedicamos a ofrecer productos de la más alta calidad, con materiales seguros y cómodos para los niños, diseñados para resistir el paso del tiempo.
+<p style="text-align: justify;"> **Compromiso:** Nos dedicamos a ofrecer productos de la más alta calidad, con materiales seguros y cómodos para los niños, diseñados para resistir el paso del tiempo.
 
-<p style="text-align: justify;">**Promoviendo la personalidad:** Valoramos la individualidad y la creatividad de cada niño. Queremos ser una fuente de inspiración para las familias que buscan prendas únicas para sus hijos.
+<p style="text-align: justify;"> **Promoviendo la personalidad:** Valoramos la individualidad y la creatividad de cada niño. Queremos ser una fuente de inspiración para las familias que buscan prendas únicas para sus hijos.
 
-<p style="text-align: justify;">**Sostenibilidad y Responsabilidad Ambiental:** Reconocemos la importancia de proteger nuestro planeta para las generaciones futuras. Estamos comprometidos con prácticas de fabricación sostenibles y responsables, minimizando nuestro impacto ambiental y apoyando a comunidades locales en Barcelona. Nos esforzamos por ser líderes en la moda infantil sostenible.
+<p style="text-align: justify;"> **Sostenibilidad y Responsabilidad Ambiental:** Reconocemos la importancia de proteger nuestro planeta para las generaciones futuras. Estamos comprometidos con prácticas de fabricación sostenibles y responsables, minimizando nuestro impacto ambiental y apoyando a comunidades locales en Barcelona. Nos esforzamos por ser líderes en la moda infantil sostenible.
 
 Creemos que a través de nuestra pasión por la moda infantil y nuestro compromiso con la comunidad y el medio ambiente, podemos marcar una diferencia positiva en la vida de los niños y en el mundo que heredarán. 
 
