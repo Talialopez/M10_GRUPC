@@ -158,37 +158,21 @@ Como empresa nos hemos propuesto los siguientes objetivos:
 
 En el mundo de la moda infantil, la competencia es desafiante y la satisfacción del cliente es primordial. Para destacar en este mercado, es fundamental ofrecer una experiencia de compra impecable, tanto en la tienda física como en línea. Para ello consideramos necesario tener un control sobre varios aspectos:
 
-- **Registro de Inventario**:
+- **Registro de Inventario**: Necesitamos garantizar que siempre haya suficiente stock disponible para satisfacer las necesidades de los clientes, tanto en la tienda física como en línea. Esto evita la pérdida de ventas debido a productos agotados.
 
-Necesitamos garantizar que siempre haya suficiente stock disponible para satisfacer las necesidades de los clientes, tanto en la tienda física como en línea. Esto evita la pérdida de ventas debido a productos agotados.
+- **Ventas**: En la moda infantil, es importante registrar y rastrear las ventas de manera eficiente para comprender las preferencias de los clientes y brindar un servicio personalizado.
 
-- **Ventas**:
+- **eCommerce**: La presencia en línea es esencial en la era digital. Necesitamos gestionar el comercio electronico para llegar a un público más amplio y ofrecer a los clientes la comodidad de comprar en línea. Esto amplía el alcance y aumenta las oportunidades de ventas.
 
-En la moda infantil, es importante registrar y rastrear las ventas de manera eficiente para comprender las preferencias de los clientes y brindar un servicio personalizado.
+- **Relaciones con clientes**: Necesitamos gestionar las relaciones con los clientes para mantener un registro de sus interacciones, preferencias y necesidades, lo que permite brindar un servicio personalizado y fortalecer la lealtad de la marca.
 
-- **eCommerce**:
+- **Facturación**: Necesitamos registrar las transacciones y mantener un control financiero, tanto para las ventas en la tienda física como en línea.
 
-La presencia en línea es esencial en la era digital. Necesitamos gestionar el comercio electronico para llegar a un público más amplio y ofrecer a los clientes la comodidad de comprar en línea. Esto amplía el alcance y aumenta las oportunidades de ventas.
+- **Compras**: Necesitamos gestionarlas compras para mantener un inventario actualizado y gestionar proveedores de manera eficiente, lo que nos garantiza que siempre los productos disponibles y un control de costos.
 
-- **Relaciones con clientes**:
+- **Contabilidad**: La contabilidad es fundamental para controlar los ingresos y gastos, necesitamos presentar informes fiscales y cumplir con las obligaciones financieras.
 
-Necesitamos gestionar las relaciones con los clientes para mantener un registro de sus interacciones, preferencias y necesidades, lo que permite brindar un servicio personalizado y fortalecer la lealtad de la marca.
-
-- **Facturación**:
-
-Necesitamos registrar las transacciones y mantener un control financiero, tanto para las ventas en la tienda física como en línea.
-
-- **Compras**:
-
-Necesitamos gestionarlas compras para mantener un inventario actualizado y gestionar proveedores de manera eficiente, lo que nos garantiza que siempre los productos disponibles y un control de costos.
-
-- **Contabilidad**:
-
-La contabilidad es fundamental para controlar los ingresos y gastos, necesitamos presentar informes fiscales y cumplir con las obligaciones financieras.
-
-- **Recursos Humanos**:
-
-A pesar del tamaño pequeño de la empresa, la gestión de recursos humanos es importante para garantizar un flujo de trabajo eficiente y la satisfacción de los empleados.
+- **Recursos Humanos**: A pesar del tamaño pequeño de la empresa, la gestión de recursos humanos es importante para garantizar un flujo de trabajo eficiente y la satisfacción de los empleados.
 
 <br><br><br>
 
