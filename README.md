@@ -35,11 +35,11 @@ Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiv
 
 <p style="text-align: justify;">Esta se sustenta en 4 pilares esenciales:
 
-<p style="text-align: justify;"> **Compromiso:** Nos dedicamos a ofrecer productos de la más alta calidad, con materiales seguros y cómodos para los niños, diseñados para resistir el paso del tiempo.
+**Compromiso:** Nos dedicamos a ofrecer productos de la más alta calidad, con materiales seguros y cómodos para los niños, diseñados para resistir el paso del tiempo.
 
-<p style="text-align: justify;"> **Promoviendo la personalidad:** Valoramos la individualidad y la creatividad de cada niño. Queremos ser una fuente de inspiración para las familias que buscan prendas únicas para sus hijos.
+**Promoviendo la personalidad:** Valoramos la individualidad y la creatividad de cada niño. Queremos ser una fuente de inspiración para las familias que buscan prendas únicas para sus hijos.
 
-<p style="text-align: justify;"> **Sostenibilidad y Responsabilidad Ambiental:** Reconocemos la importancia de proteger nuestro planeta para las generaciones futuras. Estamos comprometidos con prácticas de fabricación sostenibles y responsables, minimizando nuestro impacto ambiental y apoyando a comunidades locales en Barcelona. Nos esforzamos por ser líderes en la moda infantil sostenible.
+**Sostenibilidad y Responsabilidad Ambiental:** Reconocemos la importancia de proteger nuestro planeta para las generaciones futuras. Estamos comprometidos con prácticas de fabricación sostenibles y responsables, minimizando nuestro impacto ambiental y apoyando a comunidades locales en Barcelona. Nos esforzamos por ser líderes en la moda infantil sostenible.
 
 Creemos que a través de nuestra pasión por la moda infantil y nuestro compromiso con la comunidad y el medio ambiente, podemos marcar una diferencia positiva en la vida de los niños y en el mundo que heredarán. 
 
