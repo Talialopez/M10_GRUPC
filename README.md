@@ -2,7 +2,7 @@
 
 #### ***Descubre la Magia de la Moda Infantil***
 
-![Logo Juno](C:\Users\talia\OneDrive\Imágenes\Juno.png)
+![Logo Juno](Juno.png)
 
 <br>
 
