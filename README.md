@@ -13,12 +13,12 @@
 3. [Visión](#3-visión)
 4. [Valores](#4-valores)
 5. [Líneas de negocio](#5-líneas-de-negocio)
-6. [Metas y objetivos](#9-metas-y-objetivos)
-7. [Clasificación](#6-clasificación)
-8. [Necesidades](#7-necesidades)
-9. [Análisis de mercado](#7-análisis-de-mercado)
-10. [Estrategia de marketing](#8-estrategia-de-marketing)
-11. [Responsabilidad social corporativa](#10-responsabilidad-social-corporativa)  
+6. [Metas y objetivos](#6-metas-y-objetivos)
+7. [Clasificación](#7-clasificación)
+8. [Necesidades](#8-necesidades)
+9. [Análisis de mercado](#9-análisis-de-mercado)
+10. [Estrategia de marketing](#10-estrategia-de-marketing)
+11. [Responsabilidad social corporativa](#11-responsabilidad-social-corporativa)  
 
 <br><br><br>
 
@@ -126,28 +126,28 @@ Como empresa nos hemos propuesto los siguientes objetivos:
 
 **A corto plazo (primer año)**:
 
-- Iniciar Operaciones en Línea: Establecer una plataforma de comercio electrónico funcional y atractiva para complementar las tiendas físicas en los primeros seis meses.
+- **Iniciar Operaciones en Línea**: Establecer una plataforma de comercio electrónico funcional y atractiva para complementar las tiendas físicas en los primeros seis meses.
 
-- Incremento de Clientes: Aumentar la base de clientes en las tiendas físicas y en línea en un 20% durante el primer año.
+- **Incremento de Clientes**: Aumentar la base de clientes en las tiendas físicas y en línea en un 20% durante el primer año.
 
-- Colaboraciones Locales: Establecer alianzas con al menos dos escuelas locales para promocionar la marca y productos a las familias.
+- **Colaboraciones Locales**: Establecer alianzas con al menos dos escuelas locales para promocionar la marca y productos a las familias.
 
-- Programa de Lealtad: Implementar un programa de lealtad que recompense a los clientes frecuentes con descuentos y regalos exclusivos en el segundo trimestre.
+- **Programa de Lealtad**: Implementar un programa de lealtad que recompense a los clientes frecuentes con descuentos y regalos exclusivos en el segundo trimestre.
 
-- Recuperación de la Inversión: Recuperar la inversión inicial realizada.
+- **Recuperación de la Inversión**: Recuperar la inversión inicial realizada.
 
 
 **A largo plazo:**
 
 Liderazgo en el Mercado Local: Convertirnos en la tienda líder de ropa infantil en Gràcia, siendo la primera opción para los padres en el barrio.
 
-- Expansión Regional: Desarrollar una presencia en otras áreas de Barcelona y sus alrededores para ampliar nuestro alcance y atraer a clientes de toda la región.
+- **Expansión Regional**: Desarrollar una presencia en otras áreas de Barcelona y sus alrededores para ampliar nuestro alcance y atraer a clientes de toda la región.
 
-- Crecimiento en Ventas Anuales: Establecer un crecimiento constante en las ventas anuales, con un objetivo específico de aumento porcentual.
+- **Crecimiento en Ventas Anuales**: Establecer un crecimiento constante en las ventas anuales, con un objetivo específico de aumento porcentual.
 
-- Desarrollo de Línea Sostenible: Expandir la oferta de ropa infantil sostenible y convertirla en una parte significativa de ventas totales.
+- **Desarrollo de Línea Sostenible**: Expandir la oferta de ropa infantil sostenible y convertirla en una parte significativa de ventas totales.
 
-- Diversificación de Productos: Ampliar la oferta de productos para incluir artículos relacionados con niños, como juguetes y accesorios.
+- **Diversificación de Productos**: Ampliar la oferta de productos para incluir artículos relacionados con niños, como juguetes y accesorios.
 
 - Beneficios.
 
@@ -180,7 +180,7 @@ Necesitamos registrar las transacciones y mantener un control financiero, tanto 
 
 - **Compras**:
 
-Necesitamos gestionar eficazmente las compras para mantener un inventario actualizado y gestionar proveedores de manera eficiente, lo que nos garantiza que siempre los productos disponibles y control de los costos.
+Necesitamos gestionarlas compras para mantener un inventario actualizado y gestionar proveedores de manera eficiente, lo que nos garantiza que siempre los productos disponibles y un control de costos.
 
 - **Contabilidad**:
 
