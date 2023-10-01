@@ -86,7 +86,7 @@ Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 
 Juno se clasifica en diversos aspectos que definen su naturaleza y estructura. Esta clasificación proporciona una visión general de la empresa y su contexto empresarial.
 
-|||                    
+||                  
 |---|-
 | Sector de actividad | Terciario     
 | Tamaño | Pequeña/mediana (alrededor de 50 empleados)  
