@@ -4,6 +4,7 @@
 
 ![Logo Juno](Juno.png)
 
+
 <br>
 
 ### Índice:
@@ -14,8 +15,8 @@
 4. [Valores](#4-valores)
 5. [Líneas de negocio](#5-líneas-de-negocio)
 6. [Metas y objetivos](#6-metas-y-objetivos)
-7. [Clasificación](#7-clasificación)
-8. [Necesidades](#8-necesidades)
+7. [Necesidades](#7-necesidades)
+8. [Clasificación](#8-clasificación)
 9. [Análisis de mercado](#9-análisis-de-mercado)
 10. [Estrategia de marketing](#10-estrategia-de-marketing)
 11. [Responsabilidad social corporativa](#11-responsabilidad-social-corporativa)  
