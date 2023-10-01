@@ -1,21 +1,28 @@
 # Juno
 
 #### ***Descubre la Magia de la Moda Infantil***
+<<<<<<< HEAD
 ![Logo Juno](C:\Users\talia\OneDrive\Imágenes\Juno.png)
+=======
 
+![Imagen](C:/Usuarios/TuUsuario/Descargas/Juno.png)
+>>>>>>> a695508ce708c4c334ccd1f0f15fd101baa372a7
 
 <br>
+
+### Índice:
 
 1. [Motivación](#1-motivación)
 2. [Misión](#2-misión)
 3. [Visión](#3-visión)
 4. [Valores](#4-valores)
 5. [Líneas de negocio](#5-líneas-de-negocio)
-6. [Clasificación](#6-clasificación)
-7. [Análisis de mercado](#7-análisis-de-mercado)
-8. [Estrategia de marketing](#8-estrategia-de-marketing)
-9. [Metas y objetivos](#9-metas-y-objetivos)
-10. [Responsabilidad social corporativa](#10-responsabilidad-social-corporativa)  
+6. [Metas y objetivos](#9-metas-y-objetivos)
+7. [Clasificación](#6-clasificación)
+8. [Necesidades](#7-necesidades)
+9. [Análisis de mercado](#7-análisis-de-mercado)
+10. [Estrategia de marketing](#8-estrategia-de-marketing)
+11. [Responsabilidad social corporativa](#10-responsabilidad-social-corporativa)  
 
 <br><br><br>
 
@@ -61,6 +68,7 @@ Nuestra visión es simple y profunda: a través de la moda sostenible, capacitam
 Queremos ser reconocidos no solo por la calidad excepcional de nuestras prendas, sino también por nuestra capacidad para adaptarnos a las necesidades cambiantes de las familias y las tendencias de la moda infantil. 
 Aspiramos a crear una comunidad en la que las familias confíen en nosotros para vestir a sus pequeños, sabiendo que estamos comprometidos con la calidad, la ética y la responsabilidad social. Nos esforzamos por ser una marca que crezca con sus hijos, acompañándolos en su viaje de descubrimiento y crecimiento.
 
+
 <br><br><br>
 
 # 4-Valores
@@ -76,6 +84,7 @@ Juno lucha firmemente por ofrecer ropa fabricada con los mejores materiales, un 
 - Vestir a un pequeño/a no va a ser un problema, pues en nuestras sucursales hay pasillos y pasillos de todo lo que pueda necesitar. 
 
 - Contamos con bolsas en las que envolver su compra, que tienen en cuenta el medioambiente, pues la ecología nos importa tanto como vestir a tu pequeño/a.
+
 
 <br><br><br>
 
@@ -115,7 +124,79 @@ Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 
 <br><br><br>
 
-# 6-Clasificación
+# 6-Metas y objetivos
+
+Como empresa nos hemos propuesto los siguientes objetivos:
+
+**A corto plazo (primer año)**:
+
+- Iniciar Operaciones en Línea: Establecer una plataforma de comercio electrónico funcional y atractiva para complementar las tiendas físicas en los primeros seis meses.
+
+- Incremento de Clientes: Aumentar la base de clientes en las tiendas físicas y en línea en un 20% durante el primer año.
+
+- Colaboraciones Locales: Establecer alianzas con al menos dos escuelas locales para promocionar la marca y productos a las familias.
+
+- Programa de Lealtad: Implementar un programa de lealtad que recompense a los clientes frecuentes con descuentos y regalos exclusivos en el segundo trimestre.
+
+- Recuperación de la Inversión: Recuperar la inversión inicial realizada.
+
+
+**A largo plazo:**
+
+Liderazgo en el Mercado Local: Convertirnos en la tienda líder de ropa infantil en Gràcia, siendo la primera opción para los padres en el barrio.
+
+- Expansión Regional: Desarrollar una presencia en otras áreas de Barcelona y sus alrededores para ampliar nuestro alcance y atraer a clientes de toda la región.
+
+- Crecimiento en Ventas Anuales: Establecer un crecimiento constante en las ventas anuales, con un objetivo específico de aumento porcentual.
+
+- Desarrollo de Línea Sostenible: Expandir la oferta de ropa infantil sostenible y convertirla en una parte significativa de ventas totales.
+
+- Diversificación de Productos: Ampliar la oferta de productos para incluir artículos relacionados con niños, como juguetes y accesorios.
+
+- Beneficios.
+
+
+<br><br><br>
+
+# 7-Necesidades
+
+En el mundo de la moda infantil, la competencia es desafiante y la satisfacción del cliente es primordial. Para destacar en este mercado, es fundamental ofrecer una experiencia de compra impecable, tanto en la tienda física como en línea. Para ello consideramos necesario tener un control sobre varios aspectos:
+
+- **Registro de Inventario**:
+
+Necesitamos garantizar que siempre haya suficiente stock disponible para satisfacer las necesidades de los clientes, tanto en la tienda física como en línea. Esto evita la pérdida de ventas debido a productos agotados.
+
+- **Ventas**:
+
+En la moda infantil, es importante registrar y rastrear las ventas de manera eficiente para comprender las preferencias de los clientes y brindar un servicio personalizado.
+
+- **eCommerce**:
+
+La presencia en línea es esencial en la era digital. Necesitamos gestionar el comercio electronico para llegar a un público más amplio y ofrecer a los clientes la comodidad de comprar en línea. Esto amplía el alcance y aumenta las oportunidades de ventas.
+
+- **Relaciones con clientes**:
+
+Necesitamos gestionar las relaciones con los clientes para mantener un registro de sus interacciones, preferencias y necesidades, lo que permite brindar un servicio personalizado y fortalecer la lealtad de la marca.
+
+- **Facturación**:
+
+Necesitamos registrar las transacciones y mantener un control financiero, tanto para las ventas en la tienda física como en línea.
+
+- **Compras**:
+
+Necesitamos gestionar eficazmente las compras para mantener un inventario actualizado y gestionar proveedores de manera eficiente, lo que nos garantiza que siempre los productos disponibles y control de los costos.
+
+- **Contabilidad**:
+
+La contabilidad es fundamental para controlar los ingresos y gastos, necesitamos presentar informes fiscales y cumplir con las obligaciones financieras.
+
+- **Recursos Humanos**:
+
+A pesar del tamaño pequeño de la empresa, la gestión de recursos humanos es importante para garantizar un flujo de trabajo eficiente y la satisfacción de los empleados.
+
+<br><br><br>
+
+# 8-Clasificación
 
 Juno se clasifica en diversos aspectos que definen su naturaleza y estructura. Esta clasificación proporciona una visión general de la empresa y su contexto empresarial.
 
@@ -130,7 +211,7 @@ Juno se clasifica en diversos aspectos que definen su naturaleza y estructura. E
 
 <br><br><br>
 
-# 7-Análisis de mercado
+# 9-Análisis de mercado
 
 Niños de 0 a 14 años y sus padres son el público objetivo principal de Juno. Este grupo demográfico se divide en varias categorías según la edad:
 
@@ -156,7 +237,7 @@ En la siguiente tabla se describen los puntos clave del mercado de ropa infantil
 
 <br><br><br>
 
-# 8-Estrategia de marketing
+# 10-Estrategia de marketing
 
 
 Si bien nuestra ropa está diseñada para niños de 0 a 14 años, reconocemos que los padres son quienes toman las decisiones de compra y tienen el poder adquisitivo para realizarlas. Por lo tanto, la estrategia se orienta a atraer padres, educar sobre sostenibilidad, generar confianza en la marca y fomentar la lealtad a largo plazo.
@@ -191,41 +272,8 @@ La ***creación de un calendario de publicación*** nos ayudara con fechas clave
 
 <br><br><br>
 
-# 9-Metas y objetivos
 
-Como empresa nos hemos propuesto los siguientes objetivos:
-
-**A corto plazo (primer año)**:
-
-- Iniciar Operaciones en Línea: Establecer una plataforma de comercio electrónico funcional y atractiva para complementar las tiendas físicas en los primeros seis meses.
-
-- Incremento de Clientes: Aumentar la base de clientes en las tiendas físicas y en línea en un 20% durante el primer año.
-
-- Colaboraciones Locales: Establecer alianzas con al menos dos escuelas locales para promocionar la marca y productos a las familias.
-
-- Programa de Lealtad: Implementar un programa de lealtad que recompense a los clientes frecuentes con descuentos y regalos exclusivos en el segundo trimestre.
-
-- Recuperación de la Inversión: Recuperar la inversión inicial realizada.
-
-
-**A largo plazo:**
-
-Liderazgo en el Mercado Local: Convertirnos en la tienda líder de ropa infantil en Gràcia, siendo la primera opción para los padres en el barrio.
-
-- Expansión Regional: Desarrollar una presencia en otras áreas de Barcelona y sus alrededores para ampliar nuestro alcance y atraer a clientes de toda la región.
-
-- Crecimiento en Ventas Anuales: Establecer un crecimiento constante en las ventas anuales, con un objetivo específico de aumento porcentual.
-
-- Desarrollo de Línea Sostenible: Expandir la oferta de ropa infantil sostenible y convertirla en una parte significativa de ventas totales.
-
-- Diversificación de Productos: Ampliar la oferta de productos para incluir artículos relacionados con niños, como juguetes y accesorios.
-
-- Beneficios.
-
-
-<br><br><br>
-
-# 10-Responsabilidad Social Corporativa
+# 11-Responsabilidad Social Corporativa
 
 
 Desde Juno contribuimos a la mejora de la sociedad y del medio ambiente a través de las siguientes prácticas y acciones:
@@ -239,3 +287,4 @@ Desde Juno contribuimos a la mejora de la sociedad y del medio ambiente a travé
 - **Cuidado de Empleados**: Promovemos un ambiente laboral seguro y saludable, proporcionando capacitación y oportunidades de desarrollo para los empleados.
 
 - **Ética publicitaria**: Evitamos prácticas publicitarias engañosas y garantizamos un marketing ético acorde a los valores de la empresa.
+
