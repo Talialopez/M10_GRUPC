@@ -159,7 +159,32 @@ Juno se clasifica en diversos aspectos que definen su naturaleza y estructura. E
 Si bien nuestra ropa está diseñada para niños de 0 a 14 años, reconocemos que los padres son quienes toman las decisiones de compra y tienen el poder adquisitivo para realizarlas. Por lo tanto, la estrategia se orienta a atraer padres, educar sobre sostenibilidad, generar confianza en la marca y fomentar la lealtad a largo plazo.
 
 <p style="text-align: justify;">Para iniciar nuestra estrategia de marketing aprovecharemos las tendencias demográficas actuales. Según datos proporcionados por el Instituto Nacional de Estadística (INE), la edad promedio de maternidad y paternidad en España se sitúa en 32,6 años. Por lo tanto, nuestra estrategia se orientará hacia las redes sociales, específicamente Instagram y Facebook, que son plataformas muy utilizadas por este grupo demográfico.
+<br><br>
 
+---
+| **Acciones Marketing Digital**          |                    |                    |
+|----------------------|--------------------|--------------------|
+|  Crear  perfiles de negocio en redes sociales para llegar de manera efectiva a los padres y madres que buscan moda sostenible para sus hijos. 
+| Colaborar con influencers que se dediquen a ofrecer contenido relacionado con la crianza, la moda infantil y la sostenibilidad.   
+|Publicar contenido relevante en nuestras RRSS destacando la calidad de nuestros productos, como por ejemplo, con historias y publicaciones en tiempo real.                    |
+
+<br>
+
+---
+| **Acciones Email Marketing**          |                    |
+|----------------------|--------------------|
+|Construir una lista de suscriptores para que los visitantes interesados puedan recibir actualizaciones y ofertas exclusivas.           |
+Crear correos automatizados para celebrar cumpleaños de niños con ofertas especiales.                    |
+<br>
+
+La ***creación de un calendario de publicación*** nos ayudara con fechas claves como temporadas de cambio, eventos escolares y días festivos para planificar y programar contenido relevante
+
+<br>
+
+---
+| **Acción  calendario de publicación**          |
+|------------------------------------------------|
+|Promoción de productos específicos, consejos relacionados con las temporadas, contenido educativo sobre moda sostenible y mensajes temáticos relacionados con eventos escolares y festivos.                                                 |
 <br><br><br>
 
 # 9-Metas y objetivos
