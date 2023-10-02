@@ -42,11 +42,11 @@ Nuestra misión es ofrecer a los niños prendas que logren reflejar su alegría 
 
 Esta se sustenta en 4 pilares esenciales:
 
-**Compromiso:** Nos dedicamos a ofrecer productos de la más alta calidad, con materiales seguros y cómodos para los niños, diseñados para resistir el paso del tiempo.
+- **Compromiso:** Nos dedicamos a ofrecer productos de la más alta calidad, con materiales seguros y cómodos para los niños, diseñados para resistir el paso del tiempo.
 
-**Promoviendo la personalidad:** Valoramos la individualidad y la creatividad de cada niño. Queremos ser una fuente de inspiración para las familias que buscan prendas únicas para sus hijos.
+- **Promoviendo la personalidad:** Valoramos la individualidad y la creatividad de cada niño. Queremos ser una fuente de inspiración para las familias que buscan prendas únicas para sus hijos.
 
-**Sostenibilidad y Responsabilidad Ambiental:** Reconocemos la importancia de proteger nuestro planeta para las generaciones futuras. Estamos comprometidos con prácticas de fabricación sostenibles y responsables, minimizando nuestro impacto ambiental y apoyando a comunidades locales en Barcelona. Nos esforzamos por ser líderes en la moda infantil sostenible.
+- **Sostenibilidad y Responsabilidad Ambiental:** Reconocemos la importancia de proteger nuestro planeta para las generaciones futuras. Estamos comprometidos con prácticas de fabricación sostenibles y responsables, minimizando nuestro impacto ambiental y apoyando a comunidades locales en Barcelona. Nos esforzamos por ser líderes en la moda infantil sostenible.
 
 Creemos que a través de nuestra pasión por la moda infantil y nuestro compromiso con la comunidad y el medio ambiente, podemos marcar una diferencia positiva en la vida de los niños y en el mundo que heredarán. 
 
@@ -78,7 +78,7 @@ Juno lucha firmemente por ofrecer ropa fabricada con los mejores materiales, un 
 
 - La dedicación que hay en cada prenda hecha y la responsabilidad en vestir a un niño/a hace a nuestros proveedores destacar entre los demás.
 
-- Devoluciones: 
+- Devoluciones: en Juno, si se desea devolver una compra, hay la posibilidad de que el cliente recupere el importe que pagó, que se devuelve en efectivo o  a su tarjeta. 
 
 - Vestir a un pequeño/a no va a ser un problema, pues en nuestras sucursales hay pasillos y pasillos de todo lo que pueda necesitar. 
 
@@ -99,7 +99,11 @@ Disponemos de baño con cambiador por si ocurre una situación de esa necesidad.
 
 **Tipos de empleados:**
 
+ 
 Nuestro equipo cuenta con gente de todas las edades, tenemos una plantilla confirmada por 50 personas, repartidas en 3 tiendas. Funciones desde atención en caja, hasta atención personalizada. Nuestra oferta se interesa más en personal que cuenta con experiencia previa en el sector, aunque a todo aquel que le interese formarse y crecer en este sector, le damos la bienvenida.
+
+A Juno le interesa contar con un buen personal, que esté contento con las condiciones de la empresa, con esto hacemos referencia a proporcionar a los empleados un bienestar dentro de la empresa.
+
 
 Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 
@@ -107,19 +111,19 @@ Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 
 **Cómo generar igresos:**
 
-- ***Atención al cliente:***  Nuestro objetivo es ofrecer una buena experiencia y ser un referente en cuanto a gusto y calidad para aquellos que nos conocen y han comprado alguna vez en nuestras tiendas, y para los que no los esperamos con ansias de que visiten nuestras sucursales y con mucho gusto atenderlos.
+- **Atención al cliente:**  Nuestro objetivo es ofrecer una buena experiencia y ser un referente en cuanto a gusto y calidad para aquellos que nos conocen y han comprado alguna vez en nuestras tiendas, y para los que no los esperamos con ansias de que visiten nuestras sucursales y con mucho gusto atenderlos.
 
-- ***Venta de producto:***  Nuestra principal fuente de ingresos proviene de la ropa y accesorios de niños/as que vendemos.
+- **Venta de producto:**  Nuestra principal fuente de ingresos proviene de la ropa y accesorios de niños/as que vendemos.
 
-- ***Personalización de Ropa:***  Uno de nuestros servicios es el de la personalización, permitiendo a los clientes agregar el nombre de sus hijos a la ropa que compran. Esta opción adicional genera ingresos adicionales y crea prendas únicas y especiales.
+- **Personalización de Ropa:**  Uno de nuestros servicios es el de la personalización, permitiendo a los clientes agregar el nombre de sus hijos a la ropa que compran. Esta opción adicional genera ingresos adicionales y crea prendas únicas y especiales.
 
-- ***Promociones y ofertas especiales:***  Tenemos promociones y promociones en momentos concretos, como la vuelta al cole, que fomenta la fidelidad de los clientes ya existentes y atrae a los nuevos, con esto generaríamos ventas adicionales.
+- **Promociones y ofertas especiales:**  Tenemos promociones y promociones en momentos concretos, como la vuelta al cole, que fomenta la fidelidad de los clientes ya existentes y atrae a los nuevos, con esto generaríamos ventas adicionales.
 
-- ***Programa de fidelidad:***  Para nuestros queridos clientes fieles les damos su recompensa que consiste a veces en descuentos o ventajas exclusivas. De esta manera fomentamos la fidelidad del cliente y generamos ingresos por las ventas repetidas.
+- **Programa de fidelidad:**  Para nuestros queridos clientes fieles les damos su recompensa que consiste a veces en descuentos o ventajas exclusivas. De esta manera fomentamos la fidelidad del cliente y generamos ingresos por las ventas repetidas.
 
-- ***Colaboraciones:***  Nos abrimos a colaborar con otras marcas que tengan productos parecidos para poder así aumentar nuestras ventas.
+- **Colaboraciones:**  Nos abrimos a colaborar con otras marcas que tengan productos parecidos para poder así aumentar nuestras ventas.
 
--  ***Venta en línea:***  Mantenemos una plataforma online para poder llegar a un público más amplio y que compren nuestros productos en línea y así generar más ventas.
+-  **Venta en línea:**  Mantenemos una plataforma online para poder llegar a un público más amplio y que compren nuestros productos en línea y así generar más ventas.
 
 <br><br><br>
 
@@ -210,7 +214,7 @@ En la siguiente tabla se describen los puntos clave del mercado de ropa infantil
 ---
 | **Aspecto** |       **Descripción**                      
 |---|-
-| Tamaño | El mercado de ropa infantil en Gràcia es considerable debido a la densidad de población en este barrio de Barcelona.      
+| Tamaño | El mercado de ropa infantil en Gràcia es considerable debido a la densidad de población en este barrio de Barcelona. , también se refleja en la gran cantidad de escuelas que hay. Y aunque predomina la educación privada, los niños son libres de vestir lo que quieran fuera de las aulas.      
 | Público objetivo | Gràcia es un barrio con una alta concentración de familias, lo que lo hace ideal para este tipo de negocio.    
 | Competéncia | Existen varias tiendas de ropa infantil en Gràcia, tanto locales independientes como franquicias de marcas conocidas. Algunos competidores pueden tener una preséncia en línea también. 
 | Tendencias del mercado | **Sostenibilidad**: La conciencia ambientalestá en aumento, por lo que la oferta de ropa infantil sostenible es una tendéncia importante. Los padres buscan ropa hecha de materiales orgánicos y métodos de producción transparentes.<br><br> **Comercio electrónico**: El comercio en línea es cada vez más popular. <br><br> **Exclusividad**: Algunos padres aprecian la ropa personalizada y única para sus hijos. Ofrecer opciones personalizadas de compra será una de nuestras ventajas competitivas. <br><br> **Experiencia de compra**: Ofrecer unaexperiencia de compra agradable y acogedora en la tienda física es factor clave para atraer clientes. 
