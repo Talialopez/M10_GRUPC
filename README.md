@@ -30,6 +30,7 @@ Hace algunos años, empezamos a notar en la ciudad de Barcelona grandes desechos
 Nos comprometimos a encontrar una solución que permitiera vestir a los niños/as de una manera que reflejase nuestros valores de sostenibilidad y responsabilidad social. Juntos, comenzamos a investigar y buscar opciones en el mercado de la moda infantil, pero nos dimos cuenta de que no había muchas alternativas verdaderamente sostenibles en nuestra área.  
 
 Fue entonces cuando nació la idea de Juno. Los tres nos propusimos crear una tienda de ropa infantil que no sólo ofreciera prendas de alta calidad y estilo, sino que también promoviera la sostenibilidad y la responsabilidad social en cada aspecto de nuestro negocio. Queríamos proporcionar a los niños la oportunidad de vestirse de manera  consciente y de esta manera colaborar de alguna manera en la protección de la Tierra.  
+
 Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiva en el cuidado del medio ambiente sigue inspirando a las familias y a las futuras generaciones a construir un mundo más verde.  
 
 Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiva en el cuidado del medio ambiente sigue inspirando a las familias y a las futuras generaciones a construir un mundo más verde.
@@ -89,7 +90,7 @@ Juno lucha firmemente por ofrecer ropa fabricada con los mejores materiales, un 
 
 # 5-Líneas de negocio
 
-Juno principalmente está enfocada a la venta de ropa infantil. Con tallas que corresponden a niños desde los 0 años hasta los 14. Para el público más pequeño, venimos equipados también con accesorios como biberones, chupetes y cunas, estas son hechas con la mejor madera de la región.
+Juno principalmente está enfocada a la venta de ropa infantil. Con tallas que corresponden a niños desde los 0  hasta los 14 años. Para el público más pequeño, venimos equipados también con accesorios como biberones, chupetes y cunas, estas son hechas con la mejor madera de la región.
 
 Los pasillos cuentan con un espacio pensado para el transporte de carritos para que el cliente pueda comprar con comodidad.
 
@@ -117,13 +118,13 @@ Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 
 - **Personalización de Ropa:**  Uno de nuestros servicios es el de la personalización, permitiendo a los clientes agregar el nombre de sus hijos a la ropa que compran. Esta opción adicional genera ingresos adicionales y crea prendas únicas y especiales.
 
-- **Promociones y ofertas especiales:**  Tenemos promociones y promociones en momentos concretos, como la vuelta al cole, que fomenta la fidelidad de los clientes ya existentes y atrae a los nuevos, con esto generaríamos ventas adicionales.
+- **Promociones y ofertas especiales:**  Tenemos promociones y ofertas exclusivas en momentos concretos, en temporadas concretas. Esto fomentaria la fidelidad de los clientes ya existentes y atrae a los nuevos. Así generaríamos ventas adicionales.
 
-- **Programa de fidelidad:**  Para nuestros queridos clientes fieles les damos su recompensa que consiste a veces en descuentos o ventajas exclusivas. De esta manera fomentamos la fidelidad del cliente y generamos ingresos por las ventas repetidas.
+- **Programa de fidelidad:**  Para nuestros queridos clientes fieles, les damos descuentos o ventajas exclusivas. De esta manera fomentamos la fidelidad del cliente y generamos ingresos por las ventas repetidas.
 
 - **Colaboraciones:**  Nos abrimos a colaborar con otras marcas que tengan productos parecidos para poder así aumentar nuestras ventas.
 
--  **Venta en línea:**  Mantenemos una plataforma online para poder llegar a un público más amplio y que compren nuestros productos en línea y así generar más ventas.
+-  **Venta en línea:**  A través de nuestra plataforma online, pretendemos llegar a un público más amplio y aumentar las ventas. 
 
 <br><br><br>
 
