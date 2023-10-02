@@ -214,7 +214,7 @@ En la siguiente tabla se describen los puntos clave del mercado de ropa infantil
 ---
 | **Aspecto** |       **Descripción**                      
 |---|-
-| Tamaño | El mercado de ropa infantil en Gràcia es considerable debido a la densidad de población en este barrio de Barcelona. , también se refleja en la gran cantidad de escuelas que hay. Y aunque predomina la educación privada, los niños son libres de vestir lo que quieran fuera de las aulas.      
+| Tamaño | El mercado de ropa infantil en Gràcia es considerable debido a la densidad de población en este barrio de Barcelona. También se refleja en la gran cantidad de escuelas que hay. Y aunque predomina la educación privada, los niños son libres de vestir lo que quieran fuera de las aulas.      
 | Público objetivo | Gràcia es un barrio con una alta concentración de familias, lo que lo hace ideal para este tipo de negocio.    
 | Competéncia | Existen varias tiendas de ropa infantil en Gràcia, tanto locales independientes como franquicias de marcas conocidas. Algunos competidores pueden tener una preséncia en línea también. 
 | Tendencias del mercado | **Sostenibilidad**: La conciencia ambientalestá en aumento, por lo que la oferta de ropa infantil sostenible es una tendéncia importante. Los padres buscan ropa hecha de materiales orgánicos y métodos de producción transparentes.<br><br> **Comercio electrónico**: El comercio en línea es cada vez más popular. <br><br> **Exclusividad**: Algunos padres aprecian la ropa personalizada y única para sus hijos. Ofrecer opciones personalizadas de compra será una de nuestras ventajas competitivas. <br><br> **Experiencia de compra**: Ofrecer unaexperiencia de compra agradable y acogedora en la tienda física es factor clave para atraer clientes. 
