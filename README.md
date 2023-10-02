@@ -101,10 +101,10 @@ Disponemos de baño con cambiador por si ocurre una situación de esa necesidad.
 **Tipos de empleados:**
 
  
-Nuestro equipo cuenta con gente de todas las edades, tenemos una plantilla confirmada por 50 personas, repartidas en 3 tiendas. Funciones desde atención en caja, hasta atención personalizada. Nuestra oferta se interesa más en personal que cuenta con experiencia previa en el sector, aunque a todo aquel que le interese formarse y crecer en este sector, le damos la bienvenida.
+Nuestro equipo cuenta con gente de todas las edades, tenemos una plantilla confirmada por 50 personas, repartidas en 3 tiendas. Funciones desde atención en caja hasta atención personalizada. Nuestra oferta se interesa más en personal que cuenta con experiencia previa, aunque a todo aquel que le interese formarse y crecer, le damos la bienvenida.
 
-A Juno le interesa contar con un buen personal, que esté contento con las condiciones de la empresa, con esto hacemos referencia a proporcionar a los empleados un bienestar dentro de la empresa.
 
+En Juno, pretendemos contar con un buen personal, el cual tiene buenas condiciones de trabajo y preste un buen servicio, de esta manera, generariamos las buenas opiniones en los clientes. 
 
 Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 
@@ -112,11 +112,11 @@ Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 
 **Cómo generar igresos:**
 
-- **Atención al cliente:**  Nuestro objetivo es ofrecer una buena experiencia y ser un referente en cuanto a gusto y calidad para aquellos que nos conocen y han comprado alguna vez en nuestras tiendas, y para los que no los esperamos con ansias de que visiten nuestras sucursales y con mucho gusto atenderlos.
+- **Atención al cliente:**  Nuestro objetivo es ofrecer una buena experiencia y ser un referente en cuanto a gusto y calidad para aquellos que nos conocen y han comprado alguna vez en nuestras tiendas. Y para los que no, los esperamos con ansias de que visiten nuestras sucursales.
 
-- **Venta de producto:**  Nuestra principal fuente de ingresos proviene de la ropa y accesorios de niños/as que vendemos.
+- **Venta de producto:**  Nuestra principal fuente de ingresos proviene de la ropa y accesorios de niños/as que vendemos. 
 
-- **Personalización de Ropa:**  Uno de nuestros servicios es el de la personalización, permitiendo a los clientes agregar el nombre de sus hijos a la ropa que compran. Esta opción adicional genera ingresos adicionales y crea prendas únicas y especiales.
+- **Personalización de Ropa:**  Uno de nuestros servicios es el de la personalización, permitiendo a los clientes agregar el nombre de sus hijos a la ropa que compran. Esta opción pretende generar ingresos adicionales y crea prendas únicas y especiales.
 
 - **Promociones y ofertas especiales:**  Tenemos promociones y ofertas exclusivas en momentos concretos, en temporadas concretas. Esto fomentaria la fidelidad de los clientes ya existentes y atrae a los nuevos. Así generaríamos ventas adicionales.
 
