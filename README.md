@@ -76,11 +76,11 @@ Juno lucha firmemente por ofrecer ropa fabricada con los mejores materiales, un 
 
 - En Juno, también tomamos consciencia de aportar una buena atención al cliente, ya que si nuestros clientes quedan satisfechos con la experiencia en nuestra tienda es una satisfacción como negocio. 
 
-- La dedicación que hay en cada prenda hecha y la responsabilidad en vestir a un niño/a hace a nuestros proveedores destacar entre los demás.
+- La dedicación que hay en cada prenda hecha y la responsabilidad en vestir a un niño/a hace a nuestros proveedores destacar entre los demás. 
 
 - Devoluciones: en Juno, si se desea devolver una compra, hay la posibilidad de que el cliente recupere el importe que pagó, que se devuelve en efectivo o  a su tarjeta. 
 
-- Vestir a un pequeño/a no va a ser un problema, pues en nuestras sucursales hay pasillos y pasillos de todo lo que pueda necesitar. 
+- Tallaje: Vestir a un pequeño/a no va a ser un problema, pues en nuestras sucursales hay pasillos y pasillos de todo lo que pueda necesitar. 
 
 - Contamos con bolsas en las que envolver su compra, que tienen en cuenta el medioambiente, pues la ecología nos importa tanto como vestir a tu pequeño/a.
 
@@ -156,7 +156,7 @@ Como empresa nos hemos propuesto los siguientes objetivos:
 
 - **Diversificación de Productos**: Ampliar la oferta de productos para incluir artículos relacionados con niños, como juguetes y accesorios.
 
-- Beneficios.
+- **Beneficios**: Esperamos que los beneficios crezcan en temporadas más altas como la vuelta al cole y en periodo de rebajas.  
 
 
 <br><br><br>
@@ -248,7 +248,7 @@ Para iniciar nuestra estrategia de marketing aprovecharemos las tendencias demog
 Crear correos automatizados para celebrar cumpleaños de niños con ofertas especiales.                    |
 <br>
 
-La ***creación de un calendario de publicación*** nos ayudara con fechas claves como temporadas de cambio, eventos escolares y días festivos para planificar y programar contenido relevante
+La ***creación de un calendario de publicación*** nos ayudara con fechas claves como temporadas de cambio, eventos escolares y días festivos para planificar y programar contenido relevante.
 
 <br>
 
