@@ -98,18 +98,18 @@ Disponemos de baño con cambiador por si ocurre una situación de esa necesidad.
 
 <br>
 
-**Àrea funcional:**
+### Àrea funcional
 
 Pese a ser una pequeña empresa, se encuentra formada por diversos departamentos, entre los que podemos encontrar:
 
-- **Departamento de Compras**: Se responsabiliza de la gestión de las compras incluyendo la definición de las categorías de los productos, las cantidades que se comprarán dependiendo de la prenda, la calidad de las prendas teniendo en cuenta la sostenibilidad en ellas, la comparación de precios y el control de la fecha de recepción de los productos.
+**Departamento de Compras**: Se responsabiliza de la gestión de las compras incluyendo la definición de las categorías de los productos, las cantidades que se comprarán dependiendo de la prenda, la calidad de las prendas teniendo en cuenta la sostenibilidad en ellas, la comparación de precios y el control de la fecha de recepción de los productos.
 
 Roles:
 - 1 Gerente de Compras.  
 - 2 Compradores.  
 - 2 Analistas de Compras. 
 
-- **Departamento de Gestión de Inventarios y Almacén**: Se encarga de supervisar y administrar el flujo de productos dentro y fuera del almacén, así como mantener un registro del stock disponible en tienda. Se encuentran funciones como recepción de mercancía, almacenamiento, control de inventarios, reposición de productos, gestión de devoluciones e informes y análisis.
+**Departamento de Gestión de Inventarios y Almacén**: Se encarga de supervisar y administrar el flujo de productos dentro y fuera del almacén, así como mantener un registro del stock disponible en tienda. Se encuentran funciones como recepción de mercancía, almacenamiento, control de inventarios, reposición de productos, gestión de devoluciones e informes y análisis.
 
 Roles:
 - 1 Gerente de Almacen.  
@@ -152,7 +152,7 @@ Roles:
 
 <br>
 
-**Tipos de empleados:**
+### Tipos de empleados:
 
  
 Nuestro equipo cuenta con gente de todas las edades, tenemos una plantilla confirmada por 53 personas, repartidas en 3 tiendas, la principal se encuentra en Pl. de Lesseps, 23, 08023 Barcelona. Funciones desde atención en caja hasta atención personalizada. Nuestra oferta se interesa más en personal que cuenta con experiencia previa, aunque a todo aquel que le interese formarse y crecer, le damos la bienvenida.
@@ -164,7 +164,7 @@ Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 
 <br>
 
-**Cómo generar igresos:**
+### Cómo generar igresos:
 
 - **Atención al cliente:**  Nuestro objetivo es ofrecer una buena experiencia y ser un referente en cuanto a gusto y calidad para aquellos que nos conocen y han comprado alguna vez en nuestras tiendas. Y para los que no, los esperamos con ansias de que visiten nuestras sucursales.
 
