@@ -73,17 +73,17 @@ Aspiramos a crear una comunidad en la que las familias confíen en nosotros para
 
 Juno lucha firmemente por ofrecer ropa fabricada con los mejores materiales, un hecho que caracteriza nuestra calidad en producto. 
 
-- Nuestros productos son trabajados para ser un diseño único y exclusivo, con materiales de lo más cómodos para los más pequeños de la casa. 
+- **Diseños únicos y exclusivos**: Nuestros productos son trabajados para ser un diseño único y exclusivo, con materiales de lo más cómodos para los más pequeños de la casa. 
 
-- En Juno, también tomamos consciencia de aportar una buena atención al cliente, ya que si nuestros clientes quedan satisfechos con la experiencia en nuestra tienda es una satisfacción como negocio. 
+- **Atención al cliente**: En Juno, también tomamos consciencia de aportar una buena atención al cliente, ya que si nuestros clientes quedan satisfechos con la experiencia en nuestra tienda es una satisfacción como negocio. 
 
-- La dedicación que hay en cada prenda hecha y la responsabilidad en vestir a un niño/a hace a nuestros proveedores destacar entre los demás. 
+- **Proveedores**: La dedicación que hay en cada prenda hecha y la responsabilidad en vestir a un niño/a hace a nuestros proveedores destacar entre los demás. 
 
-- Devoluciones: en Juno, si se desea devolver una compra, hay la posibilidad de que el cliente recupere el importe que pagó, que se devuelve en efectivo o a su tarjeta. 
+- **Devoluciones**: en Juno, si se desea devolver una compra, hay la posibilidad de que el cliente recupere el importe que pagó, que se devuelve en efectivo o a su tarjeta. 
 
-- Tallaje: Vestir a un pequeño/a no va a ser un problema, pues en nuestras sucursales hay pasillos y pasillos de todo lo que pueda necesitar. 
+- **Tallaje**: Vestir a un pequeño/a no va a ser un problema, pues en nuestras sucursales hay pasillos y pasillos de todo lo que pueda necesitar. 
 
-- Contamos con bolsas en las que envolver su compra, que tienen en cuenta el medioambiente, pues la ecología nos importa tanto como vestir a tu pequeño/a.
+- **Cuidadosos con el medio ambiente**: Contamos con bolsas en las que envolver su compra, que tienen en cuenta el medioambiente, pues la ecología nos importa tanto como vestir a tu pequeño/a.
 
 
 <br><br><br>
