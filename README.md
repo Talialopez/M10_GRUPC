@@ -169,7 +169,7 @@ Roles:
  
 Nuestro equipo cuenta con gente de todas las edades, tenemos una plantilla confirmada por 54 personas, repartidas en 3 tiendas. Tenemos intención de situar la primera tienda en Pl. de Lesseps, número 23, código postal 08023 en Barcelona. Las funciones desempeñadas por los empleados son desde atención en caja hasta atención personalizada. Nuestro perfil de empleado opta más por los candidatos que cuentan con experiéncia previa en el sector, aunque a todo aquel que le interese formarse y crecer, le damos la bienvenida.
 
-En Juno, pretendemos contar con un buen personal, el cual tiene buenas condiciones de trabajo y preste un buen servicio, de esta manera, generariamos las buenas opiniones en los clientes. 
+El bienestar del empleado és importante, para que pueda desempeñar bien su trabajo y así generar buenas opiniones en los clientes. 
 
 Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 
