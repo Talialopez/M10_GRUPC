@@ -73,7 +73,7 @@ Aspiramos a crear una comunidad en la que las familias confíen en nosotros para
 
 Juno lucha firmemente por ofrecer ropa fabricada con los mejores materiales, un hecho que caracteriza nuestra calidad en producto. 
 
-- Nuestros productos son trabajados para ser un diseño único y exclusivo, con materiales de lo más cómodo para los más pequeños de la casa. 
+- Nuestros productos son trabajados para ser un diseño único y exclusivo, con materiales de lo más cómodos para los más pequeños de la casa. 
 
 - En Juno, también tomamos consciencia de aportar una buena atención al cliente, ya que si nuestros clientes quedan satisfechos con la experiencia en nuestra tienda es una satisfacción como negocio. 
 
