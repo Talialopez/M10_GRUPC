@@ -41,7 +41,7 @@ Hoy, nuestro compromiso con la moda infantil sostenible y la colaboración pasiv
 
 Nuestra misión es ofrecer a los niños prendas que logren reflejar su alegría y personalidad, mientras fomentamos la sostenibilidad y la responsabilidad social en cada aspecto de nuestra elección de proveedores. 
 
-Esta se sustenta en 4 pilares esenciales:
+Esta se sustenta en 3 pilares esenciales:
 
 - **Compromiso:** Nos dedicamos a ofrecer productos de la más alta calidad, con materiales seguros y cómodos para los niños, diseñados para resistir el paso del tiempo.
 
@@ -98,10 +98,64 @@ Disponemos de baño con cambiador por si ocurre una situación de esa necesidad.
 
 <br>
 
+**Àrea funcional:**
+
+Pese a ser una pequeña empresa, se encuentra formada por diversos departamentos, entre los que podemos encontrar:
+
+- **Departamento de Compras**: Se responsabiliza de la gestión de las compras incluyendo la definición de las categorías de los productos, las cantidades que se comprarán dependiendo de la prenda, la calidad de las prendas teniendo en cuenta la sostenibilidad en ellas, la comparación de precios y el control de la fecha de recepción de los productos.
+
+Roles:
+- 1 Gerente de Compras.  
+- 2 Compradores.  
+- 2 Analistas de Compras. 
+
+- **Departamento de Gestión de Inventarios y Almacén**: Se encarga de supervisar y administrar el flujo de productos dentro y fuera del almacén, así como mantener un registro del stock disponible en tienda. Se encuentran funciones como recepción de mercancía, almacenamiento, control de inventarios, reposición de productos, gestión de devoluciones e informes y análisis.
+
+Roles:
+- 1 Gerente de Almacen.  
+- 2 Coordinadores de Inventario.  
+- 7 Operadores de Montacargas.
+
+**Departamento de Logística**: Trabaja junto al departamento de  gestión de inventario, pero también abarca otros aspectos como la planificación de rutas de envío, el transporte, la gestión de almacenes, la distribución y la optimización de costos logísticos.  
+  
+  Roles:
+  - 1 Gerente de Logística.
+  - 1 Coordinador de Almacén.
+  - 8 Transportistas.
+
+**Departamento de Ventas y Atención al Cliente**: Se encarga de la venta directa de productos a los clientes en la tienda. También puede incluir funciones de atención al cliente, como resolver consultas de los clientes y procesar devoluciones o cambios.
+
+  Roles:  
+ - 1 Gerente de Ventas y Atención al Cliente.
+ - 9 Dependientas de Tienda.
+ - 2 Atención al cliente.
+
+**Departamento de Marketing y Publicidad**: Encargado de la promoción de la tienda y sus productos, la publicidad, la estrategia de precios y la creación de campañas para atraer a los clientes y aumentar las ventas, además de encargarse de la presentación de la mercancía en la tienda, diseñando la disposición de los productos y creando exhibiciones atractivas para los clientes.
+Roles:
+- 1 Gerente de Marketing y Publicidad.  
+- 2 Analistas de Marketing.  
+- 3 Especialistas en Marketing.
+- 1 Diseñador Gráfico. 
+
+**Departamento de RRHH**: Se encarga de la gestión del flujo de empleados, llevando al día la documentación del personal, la uniformidad de los empleados y la capacitación de estos.
+
+Roles:  
+- 1 Gerente de Recursos Humanos.
+- 2 Selección de Personal.
+- 2 Especialistas en Relaciones Laborales.
+
+**Departamento de Tecnología de la Información(TI)**: Encargado de mantener y gestionar los sistemas informáticos y tecnológicos utilizados en la tienda.
+Roles:
+- 1 Gerente de Departamento de Tecnología de la Información(TI).
+- 2 Especialista en Seguridad de la Información.
+- 2 Especialistas en Soporte Técnico.
+
+<br>
+
 **Tipos de empleados:**
 
  
-Nuestro equipo cuenta con gente de todas las edades, tenemos una plantilla confirmada por 50 personas, repartidas en 3 tiendas. Funciones desde atención en caja hasta atención personalizada. Nuestra oferta se interesa más en personal que cuenta con experiencia previa, aunque a todo aquel que le interese formarse y crecer, le damos la bienvenida.
+Nuestro equipo cuenta con gente de todas las edades, tenemos una plantilla confirmada por 53 personas, repartidas en 3 tiendas, la principal se encuentra en Pl. de Lesseps, 23, 08023 Barcelona. Funciones desde atención en caja hasta atención personalizada. Nuestra oferta se interesa más en personal que cuenta con experiencia previa, aunque a todo aquel que le interese formarse y crecer, le damos la bienvenida.
 
 
 En Juno, pretendemos contar con un buen personal, el cual tiene buenas condiciones de trabajo y preste un buen servicio, de esta manera, generariamos las buenas opiniones en los clientes. 
