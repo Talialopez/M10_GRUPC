@@ -104,7 +104,7 @@ Pese a ser una pequeña empresa, se encuentra formada por diversos departamentos
 
 **Departamento de Compras**: Se responsabiliza de la gestión de las compras incluyendo la definición de las categorías de los productos, las cantidades que se comprarán dependiendo de la prenda, la calidad de las prendas teniendo en cuenta la sostenibilidad en ellas, la comparación de precios y el control de la fecha de recepción de los productos.
 
-Roles:
+Roles
 - 1 Gerente de Compras.  
 - 2 Compradores.  
 - 2 Analistas de Compras. 
@@ -167,8 +167,7 @@ Roles:
 ### Tipos de empleados:
 
  
-Nuestro equipo cuenta con gente de todas las edades, tenemos una plantilla confirmada por 54 personas, repartidas en 3 tiendas, la principal se encuentra en Pl. de Lesseps, 23, 08023 Barcelona. Funciones desde atención en caja hasta atención personalizada. Nuestra oferta se interesa más en personal que cuenta con experiencia previa, aunque a todo aquel que le interese formarse y crecer, le damos la bienvenida.
-
+Nuestro equipo cuenta con gente de todas las edades, tenemos una plantilla confirmada por 54 personas, repartidas en 3 tiendas. Tenemos intención de situar la primera tienda en Pl. de Lesseps, número 23, código postal 08023 en Barcelona. Las funciones desempeñadas por los empleados son desde atención en caja hasta atención personalizada. Nuestro perfil de empleado opta más por los candidatos que cuentan con experiéncia previa en el sector, aunque a todo aquel que le interese formarse y crecer, le damos la bienvenida.
 
 En Juno, pretendemos contar con un buen personal, el cual tiene buenas condiciones de trabajo y preste un buen servicio, de esta manera, generariamos las buenas opiniones en los clientes. 
 
