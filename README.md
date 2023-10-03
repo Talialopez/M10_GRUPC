@@ -208,7 +208,7 @@ Como empresa nos hemos propuesto los siguientes objetivos:
 
 - **Programa de Lealtad**: Implementar un programa de lealtad que recompense a los clientes frecuentes con descuentos y regalos exclusivos en el segundo trimestre.
 
-- **Recuperación de la Inversión**: Recuperar la inversión inicial realizada.
+- **Recuperación de la Inversión**: Recuperar la inversión inicial.
 
 <br>
 
