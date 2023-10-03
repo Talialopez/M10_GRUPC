@@ -79,7 +79,7 @@ Juno lucha firmemente por ofrecer ropa fabricada con los mejores materiales, un 
 
 - La dedicación que hay en cada prenda hecha y la responsabilidad en vestir a un niño/a hace a nuestros proveedores destacar entre los demás. 
 
-- Devoluciones: en Juno, si se desea devolver una compra, hay la posibilidad de que el cliente recupere el importe que pagó, que se devuelve en efectivo o  a su tarjeta. 
+- Devoluciones: en Juno, si se desea devolver una compra, hay la posibilidad de que el cliente recupere el importe que pagó, que se devuelve en efectivo o a su tarjeta. 
 
 - Tallaje: Vestir a un pequeño/a no va a ser un problema, pues en nuestras sucursales hay pasillos y pasillos de todo lo que pueda necesitar. 
 
