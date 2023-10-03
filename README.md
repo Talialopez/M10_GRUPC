@@ -164,13 +164,13 @@ Como empresa nos hemos propuesto los siguientes objetivos:
 
 # 7-Necesidades
 
-En el mundo de la moda infantil, la competencia es desafiante y la satisfacción del cliente es primordial. Para destacar en este mercado, es fundamental ofrecer una experiencia de compra impecable, tanto en la tienda física como en línea. Para ello consideramos necesario tener un control sobre varios aspectos:
+En el mundo de la moda infantil, la competencia es desafiante y la satisfacción del cliente es primordial. Para destacar en este mercado, es fundamental ofrecer una experiencia de compra impecable, tanto en la tienda física como en línea. Para ello consideramos necesario digitalizar nuestro negocio, esto incluye gestionar a través de herramientas digitales los siguientes aspectos:
 
 - **Registro de Inventario**: Necesitamos garantizar que siempre haya suficiente stock disponible para satisfacer las necesidades de los clientes, tanto en la tienda física como en línea. Esto evita la pérdida de ventas debido a productos agotados.
 
 - **Ventas**: En la moda infantil, es importante registrar y rastrear las ventas de manera eficiente para comprender las preferencias de los clientes y brindar un servicio personalizado.
 
-- **eCommerce**: La presencia en línea es esencial en la era digital. Necesitamos gestionar el comercio electronico para llegar a un público más amplio y ofrecer a los clientes la comodidad de comprar en línea. Esto amplía el alcance y aumenta las oportunidades de ventas.
+- **Comercio en línea**: La presencia en línea es esencial en la era digital. Necesitamos gestionar el comercio electronico para llegar a un público más amplio y ofrecer a los clientes la comodidad de comprar en línea. Esto amplía el alcance y aumenta las oportunidades de ventas.
 
 - **Relaciones con clientes**: Necesitamos gestionar las relaciones con los clientes para mantener un registro de sus interacciones, preferencias y necesidades, lo que permite brindar un servicio personalizado y fortalecer la lealtad de la marca.
 
@@ -181,6 +181,13 @@ En el mundo de la moda infantil, la competencia es desafiante y la satisfacción
 - **Contabilidad**: La contabilidad es fundamental para controlar los ingresos y gastos, necesitamos presentar informes fiscales y cumplir con las obligaciones financieras.
 
 - **Recursos Humanos**: A pesar del tamaño pequeño de la empresa, la gestión de recursos humanos es importante para garantizar un flujo de trabajo eficiente y la satisfacción de los empleados.
+
+- **Logística**: Necesitamos tener un control de la gestión durante distribución de nuestros productos.
+
+- **Marketing**: Necesitamos digitalizar nuestras campañas de marketing.
+
+- **Subscripciones**: Necesitamos gestionar los planes de subscripción de nuestros clientes y mantener la confidencialidad de sus datos.
+
 
 <br><br><br>
 
