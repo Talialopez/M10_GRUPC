@@ -2,7 +2,7 @@
 
 #### ***Descubre la Magia de la Moda Infantil***
 
-![Logo Juno](Juno.png)
+![Logo Juno](juno_logo.png)
 
 
 <br>
