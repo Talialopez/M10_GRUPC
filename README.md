@@ -109,12 +109,16 @@ Roles:
 - 2 Compradores.  
 - 2 Analistas de Compras. 
 
+<br>
+
 **Departamento de Gestión de Inventarios y Almacén**: Se encarga de supervisar y administrar el flujo de productos dentro y fuera del almacén, así como mantener un registro del stock disponible en tienda. Se encuentran funciones como recepción de mercancía, almacenamiento, control de inventarios, reposición de productos, gestión de devoluciones e informes y análisis.
 
 Roles:
 - 1 Gerente de Almacen.  
 - 2 Coordinadores de Inventario.  
 - 7 Operadores de Montacargas.
+
+<br>
 
 **Departamento de Logística**: Trabaja junto al departamento de  gestión de inventario, pero también abarca otros aspectos como la planificación de rutas de envío, el transporte, la gestión de almacenes, la distribución y la optimización de costos logísticos.  
   
@@ -123,12 +127,16 @@ Roles:
   - 1 Coordinador de Almacén.
   - 8 Transportistas.
 
+<br>
+
 **Departamento de Ventas y Atención al Cliente**: Se encarga de la venta directa de productos a los clientes en la tienda. También puede incluir funciones de atención al cliente, como resolver consultas de los clientes y procesar devoluciones o cambios.
 
   Roles:  
  - 1 Gerente de Ventas y Atención al Cliente.
  - 9 Dependientas de Tienda.
  - 2 Atención al cliente.
+
+<br>
 
 **Departamento de Marketing y Publicidad**: Encargado de la promoción de la tienda y sus productos, la publicidad, la estrategia de precios y la creación de campañas para atraer a los clientes y aumentar las ventas, además de encargarse de la presentación de la mercancía en la tienda, diseñando la disposición de los productos y creando exhibiciones atractivas para los clientes.
 Roles:
@@ -137,12 +145,16 @@ Roles:
 - 3 Especialistas en Marketing.
 - 1 Diseñador Gráfico. 
 
+<br>
+
 **Departamento de RRHH**: Se encarga de la gestión del flujo de empleados, llevando al día la documentación del personal, la uniformidad de los empleados y la capacitación de estos.
 
 Roles:  
 - 1 Gerente de Recursos Humanos.
 - 2 Selección de Personal.
 - 2 Especialistas en Relaciones Laborales.
+
+<br>
 
 **Departamento de Tecnología de la Información(TI)**: Encargado de mantener y gestionar los sistemas informáticos y tecnológicos utilizados en la tienda.
 Roles:
@@ -155,7 +167,7 @@ Roles:
 ### Tipos de empleados:
 
  
-Nuestro equipo cuenta con gente de todas las edades, tenemos una plantilla confirmada por 53 personas, repartidas en 3 tiendas, la principal se encuentra en Pl. de Lesseps, 23, 08023 Barcelona. Funciones desde atención en caja hasta atención personalizada. Nuestra oferta se interesa más en personal que cuenta con experiencia previa, aunque a todo aquel que le interese formarse y crecer, le damos la bienvenida.
+Nuestro equipo cuenta con gente de todas las edades, tenemos una plantilla confirmada por 54 personas, repartidas en 3 tiendas, la principal se encuentra en Pl. de Lesseps, 23, 08023 Barcelona. Funciones desde atención en caja hasta atención personalizada. Nuestra oferta se interesa más en personal que cuenta con experiencia previa, aunque a todo aquel que le interese formarse y crecer, le damos la bienvenida.
 
 
 En Juno, pretendemos contar con un buen personal, el cual tiene buenas condiciones de trabajo y preste un buen servicio, de esta manera, generariamos las buenas opiniones en los clientes. 
@@ -186,7 +198,7 @@ Aparte de lo mencionado arriba, mantenemos un modelo de negocio sostenible.
 
 Como empresa nos hemos propuesto los siguientes objetivos:
 
-**A corto plazo (primer año)**:
+### A corto plazo (primer año):
 
 - **Iniciar Operaciones en Línea**: Establecer una plataforma de comercio electrónico funcional y atractiva para complementar las tiendas físicas en los primeros seis meses.
 
@@ -198,8 +210,9 @@ Como empresa nos hemos propuesto los siguientes objetivos:
 
 - **Recuperación de la Inversión**: Recuperar la inversión inicial realizada.
 
+<br>
 
-**A largo plazo:**
+### A largo plazo:
 
 - **Liderazgo en el Mercado Local**: Convertirnos en la tienda líder de ropa infantil en Gràcia, siendo la primera opción para los padres en el barrio.
 
